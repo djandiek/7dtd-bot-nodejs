@@ -1,0 +1,4557 @@
+[
+    {
+        "Name": "ammo44MagnumBulletAP",
+        "StackNumber": 150,
+        "Local": "AP .44 Magnum Ammo"
+    },
+    {
+        "Name": "ammo44MagnumBulletBall",
+        "StackNumber": 150,
+        "Local": ".44 Magnum Ammo"
+    },
+    {
+        "Name": "ammo44MagnumBulletHP",
+        "Local": "HP .44 Magnum Ammo",
+        "StackNumber": 150
+    },
+    {
+        "Name": "ammo762mmBulletAP",
+        "Local": "AP 7.62mm Ammo",
+        "StackNumber": 150
+    },
+    {
+        "Local": "7.62mm Ammo",
+        "StackNumber": 150,
+        "Name": "ammo762mmBulletBall"
+    },
+    {
+        "Name": "ammo762mmBulletHP",
+        "Local": "HP 7.62mm Ammo",
+        "StackNumber": 150
+    },
+    {
+        "StackNumber": 300,
+        "Local": "AP 9mm Ammo",
+        "Name": "ammo9mmBulletAP"
+    },
+    {
+        "Local": "9mm Ammo",
+        "StackNumber": 300,
+        "Name": "ammo9mmBulletBall"
+    },
+    {
+        "Name": "ammo9mmBulletHP",
+        "StackNumber": 300,
+        "Local": "HP 9mm Ammo"
+    },
+    {
+        "Name": "ammoArrowExploding",
+        "StackNumber": 75,
+        "Local": "Exploding Arrow (Ammo)"
+    },
+    {
+        "StackNumber": 150,
+        "Local": "Flaming Arrow (Ammo)",
+        "Name": "ammoArrowFlaming"
+    },
+    {
+        "StackNumber": 150,
+        "Local": "Iron Arrow (Ammo)",
+        "Name": "ammoArrowIron"
+    },
+    {
+        "Name": "ammoArrowSteelAP",
+        "StackNumber": 150,
+        "Local": "Steel Arrow (Ammo)"
+    },
+    {
+        "StackNumber": 150,
+        "Local": "Stone Arrow (Ammo)",
+        "Name": "ammoArrowStone"
+    },
+    {
+        "Name": "ammoBlunderbuss",
+        "Local": "Blunderbuss Ammo",
+        "StackNumber": 150
+    },
+    {
+        "Local": "Box of AP .44 Magnum Ammo (100)",
+        "StackNumber": 5,
+        "Name": "ammoBundle44MagnumBulletAP"
+    },
+    {
+        "Name": "ammoBundle44MagnumBulletBall",
+        "StackNumber": 5,
+        "Local": "Box of .44 Magnum Ammo (100)"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Box of HP .44 Magnum Ammo (100)",
+        "Name": "ammoBundle44MagnumBulletHP"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Box of AP 7.62mm Ammo (100)",
+        "Name": "ammoBundle762mmBulletAP"
+    },
+    {
+        "Local": "Box of 7.62mm Ammo (100)",
+        "StackNumber": 5,
+        "Name": "ammoBundle762mmBulletBall"
+    },
+    {
+        "Name": "ammoBundle762mmBulletHP",
+        "Local": "Box of HP 7.62mm Ammo (100)",
+        "StackNumber": 5
+    },
+    {
+        "Local": "Box of AP 9mm Ammo (100)",
+        "StackNumber": 5,
+        "Name": "ammoBundle9mmBulletAP"
+    },
+    {
+        "Local": "Box of 9mm Ammo (100)",
+        "StackNumber": 5,
+        "Name": "ammoBundle9mmBulletBall"
+    },
+    {
+        "Name": "ammoBundle9mmBulletHP",
+        "StackNumber": 5,
+        "Local": "Box of HP 9mm Ammo (100)"
+    },
+    {
+        "Name": "ammoBundleArrowExploding",
+        "Local": "Box of Exploding Arrows (75)",
+        "StackNumber": 5
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Box of Flaming Arrows (100)",
+        "Name": "ammoBundleArrowFlaming"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Box of Iron Arrows (100)",
+        "Name": "ammoBundleArrowIron"
+    },
+    {
+        "Name": "ammoBundleArrowSteelAP",
+        "Local": "Box of Steel Arrows (100)",
+        "StackNumber": 5
+    },
+    {
+        "Name": "ammoBundleArrowStone",
+        "StackNumber": 5,
+        "Local": "Box of Stone Arrows (100)"
+    },
+    {
+        "Local": "Box of Blunderbuss Ammo (100)",
+        "StackNumber": 5,
+        "Name": "ammoBundleBlunderbuss"
+    },
+    {
+        "Local": "Box of Exploding Crossbow Bolts (75)",
+        "StackNumber": 5,
+        "Name": "ammoBundleCrossbowBoltExploding"
+    },
+    {
+        "Name": "ammoBundleCrossbowBoltFlaming",
+        "Local": "Box of Flaming Crossbow Bolts (100)",
+        "StackNumber": 5
+    },
+    {
+        "Name": "ammoBundleCrossbowBoltIron",
+        "StackNumber": 5,
+        "Local": "Box of Iron Crossbow Bolts (100)"
+    },
+    {
+        "Name": "ammoBundleCrossbowBoltSteelAP",
+        "Local": "Box of Steel Crossbow Bolts (100)",
+        "StackNumber": 5
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Box of Stone Crossbow Bolts (100)",
+        "Name": "ammoBundleCrossbowBoltStone"
+    },
+    {
+        "Local": "Box of Shotgun Breaching Slugs (100)",
+        "StackNumber": 5,
+        "Name": "ammoBundleShotgunBreachingSlug"
+    },
+    {
+        "Name": "ammoBundleShotgunShell",
+        "StackNumber": 5,
+        "Local": "Box of Shotgun Shells (100)"
+    },
+    {
+        "Local": "Box of Shotgun Slugs (100)",
+        "StackNumber": 5,
+        "Name": "ammoBundleShotgunSlug"
+    },
+    {
+        "Local": "Exploding Crossbow Bolts",
+        "StackNumber": 75,
+        "Name": "ammoCrossbowBoltExploding"
+    },
+    {
+        "Name": "ammoCrossbowBoltFlaming",
+        "Local": "Flaming Crossbow Bolt (Ammo)",
+        "StackNumber": 150
+    },
+    {
+        "StackNumber": 150,
+        "Local": "Iron Crossbow Bolt (Ammo)",
+        "Name": "ammoCrossbowBoltIron"
+    },
+    {
+        "Local": "Steel Crossbow Bolt (Ammo)",
+        "StackNumber": 150,
+        "Name": "ammoCrossbowBoltSteelAP"
+    },
+    {
+        "Local": "Stone Crossbow Bolt (Ammo)",
+        "StackNumber": 150,
+        "Name": "ammoCrossbowBoltStone"
+    },
+    {
+        "Local": "Iron Dart (Ammo)",
+        "StackNumber": 500,
+        "Name": "ammoDartIron"
+    },
+    {
+        "Local": "Gas Can",
+        "StackNumber": 10000,
+        "Name": "ammoGasCan"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Gas Can Recipe",
+        "Name": "ammoGasCanSchematic"
+    },
+    {
+        "Name": "ammoJunkTurret",
+        "StackNumber": 1000,
+        "Local": "Junk Turret Ammo"
+    },
+    {
+        "Local": "ammoProjectileVultureVomit",
+        "StackNumber": 500,
+        "Name": "ammoProjectileVultureVomit"
+    },
+    {
+        "Name": "ammoProjectileZombieVomit",
+        "StackNumber": 500,
+        "Local": "ammoProjectileZombieVomit"
+    },
+    {
+        "Name": "ammoProjectileZombieVomitFeral",
+        "StackNumber": 500,
+        "Local": "ammoProjectileZombieVomitFeral"
+    },
+    {
+        "Local": "ammoProjectileZombieVomitRadiated",
+        "StackNumber": 500,
+        "Name": "ammoProjectileZombieVomitRadiated"
+    },
+    {
+        "Name": "ammoRocketFrag",
+        "Local": "Rocket Frag (Ammo)",
+        "StackNumber": 20
+    },
+    {
+        "Name": "ammoRocketHE",
+        "Local": "Rocket HE (Ammo)",
+        "StackNumber": 20
+    },
+    {
+        "Name": "ammoShotgunBreachingSlug",
+        "StackNumber": 150,
+        "Local": "Shotgun Breaching Slug (Ammo)"
+    },
+    {
+        "Name": "ammoShotgunShell",
+        "Local": "Shotgun Shell (Ammo)",
+        "StackNumber": 150
+    },
+    {
+        "Name": "ammoShotgunSlug",
+        "Local": "Shotgun Slug (Ammo)",
+        "StackNumber": 150
+    },
+    {
+        "Name": "apparelArmyPants",
+        "StackNumber": 1,
+        "Local": "BDU Bottoms"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "BDU Top",
+        "Name": "apparelArmyShirt"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Lucky Goggles",
+        "Name": "apparelAviatorGoggles"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Baseball Cap",
+        "Name": "apparelBallCap"
+    },
+    {
+        "Name": "apparelBandana",
+        "Local": "Bandana",
+        "StackNumber": 1
+    },
+    {
+        "Name": "apparelCigar",
+        "StackNumber": 1,
+        "Local": "Cigar"
+    },
+    {
+        "Name": "apparelCigarette",
+        "StackNumber": 1,
+        "Local": "Cigarette"
+    },
+    {
+        "Local": "Jacket",
+        "StackNumber": 1,
+        "Name": "apparelCoatJacketGeneric"
+    },
+    {
+        "Name": "apparelCoatJacketLetterZU",
+        "StackNumber": 1,
+        "Local": "College Jacket"
+    },
+    {
+        "Name": "apparelCoatLeatherDuster",
+        "StackNumber": 1,
+        "Local": "Leather Duster"
+    },
+    {
+        "Local": "Leather Poncho",
+        "StackNumber": 1,
+        "Name": "apparelCoatLeatherPoncho"
+    },
+    {
+        "Name": "apparelCoatPufferCoat",
+        "Local": "Puffer Coat",
+        "StackNumber": 1
+    },
+    {
+        "Local": "Cowboy Boots",
+        "StackNumber": 1,
+        "Name": "apparelCowboyBoots"
+    },
+    {
+        "Local": "Cowboy Hat",
+        "StackNumber": 1,
+        "Name": "apparelCowboyHat"
+    },
+    {
+        "Name": "apparelDenimPants",
+        "StackNumber": 1,
+        "Local": "Denim Pants"
+    },
+    {
+        "Name": "apparelDenimShortsPants",
+        "Local": "Shorts",
+        "StackNumber": 1
+    },
+    {
+        "Name": "apparelFacialPiercings",
+        "StackNumber": 1,
+        "Local": "Facial Piercings"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Flannel Shirt",
+        "Name": "apparelFlannelShirt"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Gasmask",
+        "Name": "apparelGasMask"
+    },
+    {
+        "Name": "apparelGhillieSuitHood",
+        "StackNumber": 1,
+        "Local": "Ghillie Suit Hood"
+    },
+    {
+        "Name": "apparelGhillieSuitJacket",
+        "StackNumber": 1,
+        "Local": "Ghillie Suit Jacket"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Ghillie Suit Pants",
+        "Name": "apparelGhillieSuitPants"
+    },
+    {
+        "Name": "apparelGothBoots",
+        "Local": "Gothic Boots",
+        "StackNumber": 1
+    },
+    {
+        "Name": "apparelGothPants",
+        "Local": "Gothic Pants",
+        "StackNumber": 1
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Hazmat Boots",
+        "Name": "apparelHazmatBoots"
+    },
+    {
+        "Name": "apparelHazmatGloves",
+        "StackNumber": 1,
+        "Local": "Hazmat Gloves"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Hazmat Jacket",
+        "Name": "apparelHazmatJacket"
+    },
+    {
+        "Name": "apparelHazmatMask",
+        "Local": "Hazmat Mask",
+        "StackNumber": 1
+    },
+    {
+        "Name": "apparelHazmatMaster",
+        "Local": "apparelHazmatMaster",
+        "StackNumber": 1
+    },
+    {
+        "Local": "Hazmat Pants",
+        "StackNumber": 1,
+        "Name": "apparelHazmatPants"
+    },
+    {
+        "Name": "apparelHoodySweatshirt",
+        "Local": "Hooded Sweatshirt",
+        "StackNumber": 1
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Shirt",
+        "Name": "apparelLongShirt"
+    },
+    {
+        "Local": "Nerdy Glasses",
+        "StackNumber": 1,
+        "Name": "apparelNerdGlasses"
+    },
+    {
+        "Name": "apparelNightvisionGoggles",
+        "StackNumber": 1,
+        "Local": "Night Vision Goggles"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Overalls",
+        "Name": "apparelOveralls"
+    },
+    {
+        "Name": "apparelPlantFiberGloves",
+        "Local": "Plant Fiber Gloves",
+        "StackNumber": 1
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Plant Fiber Hat",
+        "Name": "apparelPlantFiberHat"
+    },
+    {
+        "Local": "Plant Fiber Hood",
+        "StackNumber": 1,
+        "Name": "apparelPlantFiberHood"
+    },
+    {
+        "Name": "apparelPlantFiberMaster",
+        "Local": "apparelPlantFiberMaster",
+        "StackNumber": 1
+    },
+    {
+        "Name": "apparelPlantFiberPants",
+        "Local": "Plant Fiber Pants",
+        "StackNumber": 1
+    },
+    {
+        "Name": "apparelPlantFiberShirt",
+        "StackNumber": 1,
+        "Local": "Plant Fiber Shirt"
+    },
+    {
+        "Local": "Plant Fiber Shoes",
+        "StackNumber": 1,
+        "Name": "apparelPlantFiberShoes"
+    },
+    {
+        "Name": "apparelPressboyCap",
+        "StackNumber": 1,
+        "Local": "Press Boy Cap"
+    },
+    {
+        "Name": "apparelRunningShoesHP",
+        "Local": "High Performance Running Shoes",
+        "StackNumber": 1
+    },
+    {
+        "Name": "apparelRunningShoesRegular",
+        "StackNumber": 1,
+        "Local": "Running Shoes"
+    },
+    {
+        "Local": "Shades",
+        "StackNumber": 1,
+        "Name": "apparelShades"
+    },
+    {
+        "Local": "Ski Goggles",
+        "StackNumber": 1,
+        "Name": "apparelSkiGoggles"
+    },
+    {
+        "Local": "Skirt",
+        "StackNumber": 1,
+        "Name": "apparelSkirt"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Skull Cap",
+        "Name": "apparelSkullCap"
+    },
+    {
+        "Name": "apparelSuitDressShoes",
+        "Local": "Dress Shoes",
+        "StackNumber": 1
+    },
+    {
+        "Local": "Suit Jacket",
+        "StackNumber": 1,
+        "Name": "apparelSuitJacket"
+    },
+    {
+        "Local": "Suit Pants",
+        "StackNumber": 1,
+        "Name": "apparelSuitPants"
+    },
+    {
+        "Local": "Sweatshirt",
+        "StackNumber": 1,
+        "Name": "apparelSweatshirt"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "T-Shirt",
+        "Name": "apparelTShirtPlain"
+    },
+    {
+        "Name": "apparelTShirtZU",
+        "StackNumber": 1,
+        "Local": "ZU Fan Shirt"
+    },
+    {
+        "Name": "apparelTankTop",
+        "Local": "Tank Top",
+        "StackNumber": 1
+    },
+    {
+        "Name": "apparelWornBoots",
+        "StackNumber": 1,
+        "Local": "Worn Boots"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Padded Boots",
+        "Name": "armorClothBoots"
+    },
+    {
+        "Local": "Padded Gloves",
+        "StackNumber": 1,
+        "Name": "armorClothGloves"
+    },
+    {
+        "Name": "armorClothHat",
+        "Local": "Padded Hood",
+        "StackNumber": 1
+    },
+    {
+        "Local": "Padded Chest Armor",
+        "StackNumber": 1,
+        "Name": "armorClothJacket"
+    },
+    {
+        "Name": "armorClothMaster",
+        "StackNumber": 500,
+        "Local": "armorClothMaster"
+    },
+    {
+        "Local": "Padded Leg Armor",
+        "StackNumber": 1,
+        "Name": "armorClothPants"
+    },
+    {
+        "Local": "Firefighter's Helmet",
+        "StackNumber": 1,
+        "Name": "armorFirefightersHelmet"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Football Helmet",
+        "Name": "armorFootballHelmet"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "ZU Football Helmet",
+        "Name": "armorFootballHelmetZU"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Iron Boots",
+        "Name": "armorIronBoots"
+    },
+    {
+        "Name": "armorIronChest",
+        "StackNumber": 1,
+        "Local": "Iron Chest Armor"
+    },
+    {
+        "Name": "armorIronGloves",
+        "Local": "Iron Gloves",
+        "StackNumber": 1
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Iron Helmet",
+        "Name": "armorIronHelmet"
+    },
+    {
+        "Name": "armorIronLegs",
+        "StackNumber": 1,
+        "Local": "Iron Leg Armor"
+    },
+    {
+        "Name": "armorIronMaster",
+        "Local": "armorIronMaster",
+        "StackNumber": 500
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Iron Armor Schematic",
+        "Name": "armorIronSetSchematic"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Leather Boots",
+        "Name": "armorLeatherBoots"
+    },
+    {
+        "Local": "Leather Chest Armor",
+        "StackNumber": 1,
+        "Name": "armorLeatherChest"
+    },
+    {
+        "Local": "Leather Gloves",
+        "StackNumber": 1,
+        "Name": "armorLeatherGloves"
+    },
+    {
+        "Name": "armorLeatherHood",
+        "Local": "Leather Hood",
+        "StackNumber": 1
+    },
+    {
+        "Local": "armorLeatherMaster",
+        "StackNumber": 500,
+        "Name": "armorLeatherMaster"
+    },
+    {
+        "Name": "armorLeatherPants",
+        "StackNumber": 1,
+        "Local": "Leather Leg Armor"
+    },
+    {
+        "Local": "Leather Armor Schematic",
+        "StackNumber": 5,
+        "Name": "armorLeatherSetSchematic"
+    },
+    {
+        "Name": "armorMilitaryBoots",
+        "StackNumber": 1,
+        "Local": "Military Boots"
+    },
+    {
+        "Name": "armorMilitaryGloves",
+        "StackNumber": 1,
+        "Local": "Military Gloves"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Military Helmet",
+        "Name": "armorMilitaryHelmet"
+    },
+    {
+        "Name": "armorMilitaryLegs",
+        "StackNumber": 1,
+        "Local": "Military Leg Armor"
+    },
+    {
+        "Name": "armorMilitaryMaster",
+        "StackNumber": 500,
+        "Local": "armorMilitaryMaster"
+    },
+    {
+        "Name": "armorMilitarySetParts",
+        "StackNumber": 50,
+        "Local": "Military Armor Parts"
+    },
+    {
+        "Local": "Military Armor Schematic",
+        "StackNumber": 5,
+        "Name": "armorMilitarySetSchematic"
+    },
+    {
+        "Local": "Military Stealth Boots",
+        "StackNumber": 1,
+        "Name": "armorMilitaryStealthBoots"
+    },
+    {
+        "Name": "armorMilitaryVest",
+        "StackNumber": 1,
+        "Local": "Military Vest"
+    },
+    {
+        "Name": "armorMiningHelmet",
+        "StackNumber": 1,
+        "Local": "Mining Helmet"
+    },
+    {
+        "Name": "armorPlotAdmin",
+        "StackNumber": 500,
+        "Local": "Dev: Plot Armor"
+    },
+    {
+        "Local": "Santa Hat",
+        "StackNumber": 1,
+        "Name": "armorSantaHat"
+    },
+    {
+        "Name": "armorScrapBoots",
+        "Local": "Scrap Boots",
+        "StackNumber": 1
+    },
+    {
+        "Name": "armorScrapChest",
+        "Local": "Scrap Chest Armor",
+        "StackNumber": 1
+    },
+    {
+        "Local": "Scrap Gloves",
+        "StackNumber": 1,
+        "Name": "armorScrapGloves"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Scrap Helmet",
+        "Name": "armorScrapHelmet"
+    },
+    {
+        "Name": "armorScrapLegs",
+        "Local": "Scrap Leg Armor",
+        "StackNumber": 1
+    },
+    {
+        "Name": "armorScrapMaster",
+        "StackNumber": 500,
+        "Local": "armorScrapMaster"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Steel Boots",
+        "Name": "armorSteelBoots"
+    },
+    {
+        "Name": "armorSteelChest",
+        "Local": "Steel Chest Armor",
+        "StackNumber": 1
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Steel Gloves",
+        "Name": "armorSteelGloves"
+    },
+    {
+        "Local": "Steel Helmet",
+        "StackNumber": 1,
+        "Name": "armorSteelHelmet"
+    },
+    {
+        "Local": "Steel Leg Armor",
+        "StackNumber": 1,
+        "Name": "armorSteelLegs"
+    },
+    {
+        "Local": "armorSteelMaster",
+        "StackNumber": 500,
+        "Name": "armorSteelMaster"
+    },
+    {
+        "StackNumber": 50,
+        "Local": "Steel Armor Parts",
+        "Name": "armorSteelSetParts"
+    },
+    {
+        "Name": "armorSteelSetSchematic",
+        "Local": "Steel Armor Schematic",
+        "StackNumber": 5
+    },
+    {
+        "Name": "armorSwatHelmet",
+        "StackNumber": 1,
+        "Local": "SWAT Helmet"
+    },
+    {
+        "Name": "autoTurretSchematic",
+        "Local": "SMG Auto Turret Schematic",
+        "StackNumber": 5
+    },
+    {
+        "Name": "backpackMedium",
+        "StackNumber": 1,
+        "Local": "backpackMedium"
+    },
+    {
+        "Name": "batterybankSchematic",
+        "Local": "Battery Bank Schematic",
+        "StackNumber": 5
+    },
+    {
+        "Local": "Blade Trap Schematic",
+        "StackNumber": 5,
+        "Name": "bladeTrapSchematic"
+    },
+    {
+        "Name": "blankNoteMaster",
+        "Local": "blankNoteMaster",
+        "StackNumber": 50
+    },
+    {
+        "StackNumber": 20,
+        "Local": "Art of Mining Vol 6",
+        "Name": "bookArtOfMiningAvalanche"
+    },
+    {
+        "Local": "Art of Mining Vol 4",
+        "StackNumber": 20,
+        "Name": "bookArtOfMiningBlackStrap"
+    },
+    {
+        "Local": "Art of Mining Vol 3",
+        "StackNumber": 20,
+        "Name": "bookArtOfMiningCoffee"
+    },
+    {
+        "Local": "Art of Mining Vol 2",
+        "StackNumber": 20,
+        "Name": "bookArtOfMiningDiamondTools"
+    },
+    {
+        "Name": "bookArtOfMiningLantern",
+        "Local": "Art of Mining Vol 7",
+        "StackNumber": 20
+    },
+    {
+        "Name": "bookArtOfMiningLuckyStrike",
+        "StackNumber": 20,
+        "Local": "Art of Mining Vol 1"
+    },
+    {
+        "Name": "bookArtOfMiningPallets",
+        "StackNumber": 20,
+        "Local": "Art of Mining Vol 5"
+    },
+    {
+        "Name": "bookAutoWeaponsDamage",
+        "Local": "Automatic Weapons Handbook Vol 1",
+        "StackNumber": 20
+    },
+    {
+        "Name": "bookAutoWeaponsDrumMag",
+        "StackNumber": 20,
+        "Local": "Automatic Weapons Handbook Vol 4"
+    },
+    {
+        "StackNumber": 20,
+        "Local": "Automatic Weapons Handbook Vol 7",
+        "Name": "bookAutoWeaponsMachineGuns"
+    },
+    {
+        "Name": "bookAutoWeaponsMaintenance",
+        "Local": "Automatic Weapons Handbook Vol 3",
+        "StackNumber": 20
+    },
+    {
+        "Name": "bookAutoWeaponsRagdoll",
+        "Local": "Automatic Weapons Handbook Vol 6",
+        "StackNumber": 20
+    },
+    {
+        "Name": "bookAutoWeaponsRecoil",
+        "Local": "Automatic Weapons Handbook Vol 5",
+        "StackNumber": 20
+    },
+    {
+        "Name": "bookAutoWeaponsUncontrolledBurst",
+        "StackNumber": 20,
+        "Local": "Automatic Weapons Handbook Vol 2"
+    },
+    {
+        "Name": "bookBatterUpBaseballBats",
+        "Local": "Batter Up Vol 6",
+        "StackNumber": 20
+    },
+    {
+        "Local": "Batter Up Vol 1",
+        "StackNumber": 20,
+        "Name": "bookBatterUpBigHits"
+    },
+    {
+        "Name": "bookBatterUpConditioning",
+        "StackNumber": 20,
+        "Local": "Batter Up Vol 7"
+    },
+    {
+        "StackNumber": 20,
+        "Local": "Batter Up Vol 2",
+        "Name": "bookBatterUpGear"
+    },
+    {
+        "Name": "bookBatterUpKnockdown",
+        "StackNumber": 20,
+        "Local": "Batter Up Vol 4"
+    },
+    {
+        "Name": "bookBatterUpMaintenance",
+        "StackNumber": 20,
+        "Local": "Batter Up Vol 5"
+    },
+    {
+        "Local": "Batter Up Vol 3",
+        "StackNumber": 20,
+        "Name": "bookBatterUpSlowPitch"
+    },
+    {
+        "Name": "bookEnforcerAPAmmo",
+        "StackNumber": 20,
+        "Local": "Magnum Enforcer Vol 5"
+    },
+    {
+        "Name": "bookEnforcerApparel",
+        "StackNumber": 20,
+        "Local": "Magnum Enforcer Vol 2"
+    },
+    {
+        "Name": "bookEnforcerCriminalPursuit",
+        "Local": "Magnum Enforcer Vol 7",
+        "StackNumber": 20
+    },
+    {
+        "StackNumber": 20,
+        "Local": "Magnum Enforcer Vol 1",
+        "Name": "bookEnforcerDamage"
+    },
+    {
+        "StackNumber": 20,
+        "Local": "Magnum Enforcer Vol 6",
+        "Name": "bookEnforcerHPAmmo"
+    },
+    {
+        "Name": "bookEnforcerIntimidation",
+        "Local": "Magnum Enforcer Vol 4",
+        "StackNumber": 20
+    },
+    {
+        "Name": "bookEnforcerPunks",
+        "Local": "Magnum Enforcer Vol 3",
+        "StackNumber": 20
+    },
+    {
+        "Name": "bookFiremansAlmanacAxes",
+        "Local": "The Fireman's Almanac Vol 2",
+        "StackNumber": 20
+    },
+    {
+        "Local": "The Fireman's Almanac Vol 7",
+        "StackNumber": 20,
+        "Name": "bookFiremansAlmanacEquipment"
+    },
+    {
+        "StackNumber": 20,
+        "Local": "The Fireman's Almanac Vol 6",
+        "Name": "bookFiremansAlmanacHarvest"
+    },
+    {
+        "Name": "bookFiremansAlmanacHeat",
+        "Local": "The Fireman's Almanac Vol 1",
+        "StackNumber": 20
+    },
+    {
+        "StackNumber": 20,
+        "Local": "The Fireman's Almanac Vol 4",
+        "Name": "bookFiremansAlmanacMolotov"
+    },
+    {
+        "Name": "bookFiremansAlmanacPrevention",
+        "StackNumber": 20,
+        "Local": "The Fireman's Almanac Vol 5"
+    },
+    {
+        "StackNumber": 20,
+        "Local": "The Fireman's Almanac Vol 3",
+        "Name": "bookFiremansAlmanacSpeed"
+    },
+    {
+        "Name": "bookGreatHeistAdrenalineFall",
+        "StackNumber": 20,
+        "Local": "The Great Heist Vol 5"
+    },
+    {
+        "StackNumber": 20,
+        "Local": "The Great Heist Vol 4",
+        "Name": "bookGreatHeistClaimed"
+    },
+    {
+        "StackNumber": 20,
+        "Local": "The Great Heist Vol 2",
+        "Name": "bookGreatHeistGems"
+    },
+    {
+        "Local": "The Great Heist Vol 7",
+        "StackNumber": 20,
+        "Name": "bookGreatHeistMotionDetection"
+    },
+    {
+        "Name": "bookGreatHeistSafes",
+        "Local": "The Great Heist Vol 1",
+        "StackNumber": 20
+    },
+    {
+        "StackNumber": 20,
+        "Local": "The Great Heist Vol 6",
+        "Name": "bookGreatHeistSprintSneak"
+    },
+    {
+        "StackNumber": 20,
+        "Local": "The Great Heist Vol 3",
+        "Name": "bookGreatHeistTimedCharge"
+    },
+    {
+        "Name": "bookHuntingJournalBears",
+        "StackNumber": 20,
+        "Local": "The Hunter's Journal Vol 1"
+    },
+    {
+        "Local": "The Hunter's Journal Vol 3",
+        "StackNumber": 20,
+        "Name": "bookHuntingJournalCoyotes"
+    },
+    {
+        "Local": "The Hunter's Journal Vol 5",
+        "StackNumber": 20,
+        "Name": "bookHuntingJournalDeer"
+    },
+    {
+        "Local": "The Hunter's Journal Vol 4",
+        "StackNumber": 20,
+        "Name": "bookHuntingJournalMountainLions"
+    },
+    {
+        "Local": "The Hunter's Journal Vol 7",
+        "StackNumber": 20,
+        "Name": "bookHuntingJournalSelfDefense"
+    },
+    {
+        "Name": "bookHuntingJournalVultures",
+        "StackNumber": 20,
+        "Local": "The Hunter's Journal Vol 6"
+    },
+    {
+        "Name": "bookHuntingJournalWolves",
+        "Local": "The Hunter's Journal Vol 2",
+        "StackNumber": 20
+    },
+    {
+        "Name": "bookLuckyLooterAmmunition",
+        "StackNumber": 20,
+        "Local": "Lucky Looter Vol 2"
+    },
+    {
+        "Name": "bookLuckyLooterBooks",
+        "StackNumber": 20,
+        "Local": "Lucky Looter Vol 5"
+    },
+    {
+        "Local": "Lucky Looter Vol 3",
+        "StackNumber": 20,
+        "Name": "bookLuckyLooterBrass"
+    },
+    {
+        "StackNumber": 20,
+        "Local": "Lucky Looter Vol 1",
+        "Name": "bookLuckyLooterDukes"
+    },
+    {
+        "Local": "Lucky Looter Vol 6",
+        "StackNumber": 20,
+        "Name": "bookLuckyLooterFood"
+    },
+    {
+        "Local": "Lucky Looter Vol 4",
+        "StackNumber": 20,
+        "Name": "bookLuckyLooterLead"
+    },
+    {
+        "Local": "Lucky Looter Vol 7",
+        "StackNumber": 20,
+        "Name": "bookLuckyLooterMedical"
+    },
+    {
+        "Name": "bookNeedleAndThreadDesertWear",
+        "StackNumber": 20,
+        "Local": "Needle & Thread Vol 4"
+    },
+    {
+        "Local": "Needle & Thread Vol 5",
+        "StackNumber": 20,
+        "Name": "bookNeedleAndThreadDusters"
+    },
+    {
+        "Name": "bookNeedleAndThreadFootwear",
+        "StackNumber": 20,
+        "Local": "Needle & Thread Vol 3"
+    },
+    {
+        "Name": "bookNeedleAndThreadLegwear",
+        "Local": "Needle & Thread Vol 2",
+        "StackNumber": 20
+    },
+    {
+        "Name": "bookNeedleAndThreadPockets",
+        "StackNumber": 20,
+        "Local": "Needle & Thread Vol 7"
+    },
+    {
+        "Name": "bookNeedleAndThreadPufferCoats",
+        "Local": "Needle & Thread Vol 6",
+        "StackNumber": 20
+    },
+    {
+        "Local": "Needle & Thread Vol 1",
+        "StackNumber": 20,
+        "Name": "bookNeedleAndThreadWinterWear"
+    },
+    {
+        "Name": "bookNightStalkerArchery",
+        "Local": "Night Stalker Vol 5",
+        "StackNumber": 20
+    },
+    {
+        "StackNumber": 20,
+        "Local": "Night Stalker Vol 3",
+        "Name": "bookNightStalkerBlades"
+    },
+    {
+        "Local": "Night Stalker Vol 2",
+        "StackNumber": 20,
+        "Name": "bookNightStalkerSilentNight"
+    },
+    {
+        "Name": "bookNightStalkerSlumberParty",
+        "Local": "Night Stalker Vol 7",
+        "StackNumber": 20
+    },
+    {
+        "Local": "Night Stalker Vol 1",
+        "StackNumber": 20,
+        "Name": "bookNightStalkerStealthDamage"
+    },
+    {
+        "Local": "Night Stalker Vol 4",
+        "StackNumber": 20,
+        "Name": "bookNightStalkerThiefAdrenaline"
+    },
+    {
+        "StackNumber": 20,
+        "Local": "Night Stalker Vol 6",
+        "Name": "bookNightStalkerTwilightThief"
+    },
+    {
+        "Name": "bookPistolPeteAPAmmo",
+        "StackNumber": 20,
+        "Local": "Pistol Pete Vol 6"
+    },
+    {
+        "Name": "bookPistolPeteDamage",
+        "Local": "Pistol Pete Vol 7",
+        "StackNumber": 20
+    },
+    {
+        "Name": "bookPistolPeteHPAmmo",
+        "StackNumber": 20,
+        "Local": "Pistol Pete Vol 5"
+    },
+    {
+        "Name": "bookPistolPeteMaintenance",
+        "StackNumber": 20,
+        "Local": "Pistol Pete Vol 4"
+    },
+    {
+        "Local": "Pistol Pete Vol 3",
+        "StackNumber": 20,
+        "Name": "bookPistolPeteSteadyHand"
+    },
+    {
+        "Name": "bookPistolPeteSwissKnees",
+        "Local": "Pistol Pete Vol 2",
+        "StackNumber": 20
+    },
+    {
+        "Name": "bookPistolPeteTakeAim",
+        "Local": "Pistol Pete Vol 1",
+        "StackNumber": 20
+    },
+    {
+        "Name": "bookRangersAPAmmo",
+        "StackNumber": 20,
+        "Local": "Ranger's Guide to Archery Vol 4"
+    },
+    {
+        "Local": "Ranger's Guide to Archery Vol 1",
+        "StackNumber": 20,
+        "Name": "bookRangersArrowRecovery"
+    },
+    {
+        "Local": "Ranger's Guide to Archery Vol 3",
+        "StackNumber": 20,
+        "Name": "bookRangersCripplingShot"
+    },
+    {
+        "StackNumber": 20,
+        "Local": "Ranger's Guide to Archery Vol 2",
+        "Name": "bookRangersExplodingBolts"
+    },
+    {
+        "StackNumber": 20,
+        "Local": "Ranger's Guide to Archery Vol 5",
+        "Name": "bookRangersFlamingArrows"
+    },
+    {
+        "StackNumber": 20,
+        "Local": "Ranger's Guide to Archery Vol 6",
+        "Name": "bookRangersForestGuide"
+    },
+    {
+        "StackNumber": 20,
+        "Local": "Ranger's Guide to Archery Vol 7",
+        "Name": "bookRangersKnockdown"
+    },
+    {
+        "Name": "bookShotgunMessiahBreachingSlugs",
+        "Local": "Shotgun Messiah Vol 2",
+        "StackNumber": 20
+    },
+    {
+        "StackNumber": 20,
+        "Local": "Shotgun Messiah Vol 1",
+        "Name": "bookShotgunMessiahDamage"
+    },
+    {
+        "StackNumber": 20,
+        "Local": "Shotgun Messiah Vol 3",
+        "Name": "bookShotgunMessiahLimbShot"
+    },
+    {
+        "Local": "Shotgun Messiah Vol 6",
+        "StackNumber": 20,
+        "Name": "bookShotgunMessiahMagazine"
+    },
+    {
+        "StackNumber": 20,
+        "Local": "Shotgun Messiah Vol 5",
+        "Name": "bookShotgunMessiahMaintenance"
+    },
+    {
+        "Name": "bookShotgunMessiahPartyStarter",
+        "StackNumber": 20,
+        "Local": "Shotgun Messiah Vol 7"
+    },
+    {
+        "Name": "bookShotgunMessiahSlugs",
+        "Local": "Shotgun Messiah Vol 4",
+        "StackNumber": 20
+    },
+    {
+        "Name": "bookSniperAPAmmo",
+        "Local": "Sniper Vol 6",
+        "StackNumber": 20
+    },
+    {
+        "Name": "bookSniperControlledBreathing",
+        "Local": "Sniper Vol 5",
+        "StackNumber": 20
+    },
+    {
+        "Local": "Sniper Vol 2",
+        "StackNumber": 20,
+        "Name": "bookSniperCripplingShot"
+    },
+    {
+        "Name": "bookSniperDamage",
+        "StackNumber": 20,
+        "Local": "Sniper Vol 1"
+    },
+    {
+        "Local": "Sniper Vol 4",
+        "StackNumber": 20,
+        "Name": "bookSniperGhost"
+    },
+    {
+        "Name": "bookSniperHPAmmo",
+        "StackNumber": 20,
+        "Local": "Sniper Vol 7"
+    },
+    {
+        "StackNumber": 20,
+        "Local": "Sniper Vol 3",
+        "Name": "bookSniperHeadShot"
+    },
+    {
+        "StackNumber": 20,
+        "Local": "Urban Combat Vol 6",
+        "Name": "bookUrbanCombatAdrenalineRush"
+    },
+    {
+        "StackNumber": 20,
+        "Local": "Urban Combat Vol 2",
+        "Name": "bookUrbanCombatControlledBreathing"
+    },
+    {
+        "StackNumber": 20,
+        "Local": "Urban Combat Vol 4",
+        "Name": "bookUrbanCombatJumping"
+    },
+    {
+        "Name": "bookUrbanCombatLandMines",
+        "StackNumber": 20,
+        "Local": "Urban Combat Vol 5"
+    },
+    {
+        "Name": "bookUrbanCombatLanding",
+        "Local": "Urban Combat Vol 1",
+        "StackNumber": 20
+    },
+    {
+        "Name": "bookUrbanCombatRoomClearing",
+        "Local": "Urban Combat Vol 7",
+        "StackNumber": 20
+    },
+    {
+        "StackNumber": 20,
+        "Local": "Urban Combat Vol 3",
+        "Name": "bookUrbanCombatSneaking"
+    },
+    {
+        "Name": "bookWasteTreasuresAcid",
+        "StackNumber": 20,
+        "Local": "Wasteland Treasures Vol 3"
+    },
+    {
+        "StackNumber": 20,
+        "Local": "Wasteland Treasures Vol 6",
+        "Name": "bookWasteTreasuresCloth"
+    },
+    {
+        "Name": "bookWasteTreasuresCoffins",
+        "Local": "Wasteland Treasures Vol 2",
+        "StackNumber": 20
+    },
+    {
+        "Name": "bookWasteTreasuresDoors",
+        "Local": "Wasteland Treasures Vol 5",
+        "StackNumber": 20
+    },
+    {
+        "Local": "Wasteland Treasures Vol 1",
+        "StackNumber": 20,
+        "Name": "bookWasteTreasuresHoney"
+    },
+    {
+        "Local": "Wasteland Treasures Vol 7",
+        "StackNumber": 20,
+        "Name": "bookWasteTreasuresSinks"
+    },
+    {
+        "Name": "bookWasteTreasuresWater",
+        "StackNumber": 20,
+        "Local": "Wasteland Treasures Vol 4"
+    },
+    {
+        "Local": "Bucket",
+        "StackNumber": 1,
+        "Name": "bucketEmpty"
+    },
+    {
+        "Name": "bucketRiverWater",
+        "StackNumber": 1,
+        "Local": "Bucket of Water"
+    },
+    {
+        "Name": "candle",
+        "StackNumber": 50,
+        "Local": "Candle"
+    },
+    {
+        "Name": "carBattery",
+        "Local": "Lead Car Battery",
+        "StackNumber": 1
+    },
+    {
+        "StackNumber": 20000,
+        "Local": "Duke's Casino Token",
+        "Name": "casinoCoin"
+    },
+    {
+        "Name": "cementMixerSchematic",
+        "Local": "Cement Mixer Schematic",
+        "StackNumber": 5
+    },
+    {
+        "Name": "challengeQuestMaster",
+        "Local": "challengeQuestMaster",
+        "StackNumber": 50
+    },
+    {
+        "Name": "chemistryStationSchematic",
+        "Local": "Chemistry Station Schematic",
+        "StackNumber": 5
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Dev: Cool Loot Shades",
+        "Name": "coolLootShadesAdmin"
+    },
+    {
+        "Local": "Dart Trap Schematic",
+        "StackNumber": 5,
+        "Name": "dartTrapSchematic"
+    },
+    {
+        "Name": "drinkCanEmpty",
+        "StackNumber": 500,
+        "Local": "Empty Can"
+    },
+    {
+        "Name": "drinkCanMegaCrush",
+        "Local": "Mega Crush",
+        "StackNumber": 10
+    },
+    {
+        "StackNumber": 10,
+        "Local": "Beer",
+        "Name": "drinkJarBeer"
+    },
+    {
+        "Local": "Beer Recipe",
+        "StackNumber": 5,
+        "Name": "drinkJarBeerSchematic"
+    },
+    {
+        "Local": "Blackstrap Coffee",
+        "StackNumber": 10,
+        "Name": "drinkJarBlackStrapCoffee"
+    },
+    {
+        "Local": "Bottled Water",
+        "StackNumber": 10,
+        "Name": "drinkJarBoiledWater"
+    },
+    {
+        "StackNumber": 10,
+        "Local": "Coffee",
+        "Name": "drinkJarCoffee"
+    },
+    {
+        "Local": "Coffee Recipe",
+        "StackNumber": 5,
+        "Name": "drinkJarCoffeeSchematic"
+    },
+    {
+        "Name": "drinkJarEmpty",
+        "Local": "Glass Jar",
+        "StackNumber": 125
+    },
+    {
+        "Local": "Dev: Full Respec",
+        "StackNumber": 1,
+        "Name": "drinkJarFullRespecAdmin"
+    },
+    {
+        "Name": "drinkJarGoldenRodTea",
+        "Local": "Goldenrod Tea",
+        "StackNumber": 10
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Goldenrod Tea Recipe",
+        "Name": "drinkJarGoldenRodTeaSchematic"
+    },
+    {
+        "Name": "drinkJarGrainAlcohol",
+        "StackNumber": 10,
+        "Local": "Grain Alcohol"
+    },
+    {
+        "Local": "Grandpa's Awesome Sauce",
+        "StackNumber": 10,
+        "Name": "drinkJarGrandpasAwesomeSauce"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Grandpa's Awesome Sauce Recipe",
+        "Name": "drinkJarGrandpasAwesomeSauceSchematic"
+    },
+    {
+        "StackNumber": 10,
+        "Local": "Grandpa's Fergit'n Elixir",
+        "Name": "drinkJarGrandpasForgettingElixir"
+    },
+    {
+        "Name": "drinkJarGrandpasLearningElixir",
+        "Local": "Grandpa's Learn'n Elixir",
+        "StackNumber": 10
+    },
+    {
+        "Local": "Grandpa's Learn'n Elixir Recipe",
+        "StackNumber": 5,
+        "Name": "drinkJarGrandpasLearningElixirSchematic"
+    },
+    {
+        "Name": "drinkJarGrandpasMoonshine",
+        "Local": "Grandpa's Moonshine",
+        "StackNumber": 10
+    },
+    {
+        "Name": "drinkJarGrandpasMoonshineSchematic",
+        "StackNumber": 5,
+        "Local": "Grandpa's Moonshine Recipe"
+    },
+    {
+        "Local": "Pure Mineral Water",
+        "StackNumber": 10,
+        "Name": "drinkJarPureMineralWater"
+    },
+    {
+        "Local": "Red Tea",
+        "StackNumber": 10,
+        "Name": "drinkJarRedTea"
+    },
+    {
+        "Name": "drinkJarRedTeaSchematic",
+        "StackNumber": 5,
+        "Local": "Red Tea Recipe"
+    },
+    {
+        "StackNumber": 125,
+        "Local": "Bottled Murky Water",
+        "Name": "drinkJarRiverWater"
+    },
+    {
+        "StackNumber": 10,
+        "Local": "Yucca Cocktail",
+        "Name": "drinkJarYuccaCocktail"
+    },
+    {
+        "Name": "drinkJarYuccaJuice",
+        "StackNumber": 10,
+        "Local": "Yucca Juice"
+    },
+    {
+        "Name": "drinkYuccaJuiceSmoothie",
+        "Local": "Yucca Juice Smoothie",
+        "StackNumber": 10
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Yucca Juice Smoothie Recipe",
+        "Name": "drinkYuccaJuiceSmoothieSchematic"
+    },
+    {
+        "StackNumber": 10,
+        "Local": "Antibiotics",
+        "Name": "drugAntibiotics"
+    },
+    {
+        "Local": "Antibiotics Recipe",
+        "StackNumber": 5,
+        "Name": "drugAntibioticsSchematic"
+    },
+    {
+        "Name": "drugBluePill",
+        "StackNumber": 500,
+        "Local": "Blue Pill"
+    },
+    {
+        "Name": "drugFortBites",
+        "StackNumber": 10,
+        "Local": "Fort Bites"
+    },
+    {
+        "Local": "Herbal Antibiotics",
+        "StackNumber": 10,
+        "Name": "drugHerbalAntibiotics"
+    },
+    {
+        "Local": "Herbal Antibiotics Recipe",
+        "StackNumber": 5,
+        "Name": "drugHerbalAntibioticsSchematic"
+    },
+    {
+        "Local": "Painkillers",
+        "StackNumber": 10,
+        "Name": "drugPainkillers"
+    },
+    {
+        "Local": "Recog",
+        "StackNumber": 10,
+        "Name": "drugRecog"
+    },
+    {
+        "Name": "drugRedPill",
+        "StackNumber": 1,
+        "Local": "Red Pill"
+    },
+    {
+        "Local": "Steroids",
+        "StackNumber": 10,
+        "Name": "drugSteroids"
+    },
+    {
+        "Name": "drugVitamins",
+        "StackNumber": 10,
+        "Local": "Vitamins"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Electric Fence Post Schematic",
+        "Name": "electricfencepostSchematic"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Electric Timer Relay Schematic",
+        "Name": "electrictimerrelaySchematic"
+    },
+    {
+        "StackNumber": 10,
+        "Local": "Bacon and Eggs",
+        "Name": "foodBaconAndEggs"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Bacon and Eggs Recipe",
+        "Name": "foodBaconAndEggsSchematic"
+    },
+    {
+        "Name": "foodBakedPotato",
+        "StackNumber": 10,
+        "Local": "Baked Potato"
+    },
+    {
+        "Name": "foodBakedPotatoSchematic",
+        "Local": "Baked Potato Recipe",
+        "StackNumber": 5
+    },
+    {
+        "Name": "foodBlueberryPie",
+        "Local": "Blueberry Pie",
+        "StackNumber": 10
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Blueberry Pie Recipe",
+        "Name": "foodBlueberryPieSchematic"
+    },
+    {
+        "Name": "foodBoiledMeat",
+        "StackNumber": 10,
+        "Local": "Boiled Meat"
+    },
+    {
+        "Name": "foodBoiledMeatSchematic",
+        "StackNumber": 5,
+        "Local": "Boiled Meat Recipe"
+    },
+    {
+        "Local": "Large Beef Ration",
+        "StackNumber": 10,
+        "Name": "foodCanBeef"
+    },
+    {
+        "Name": "foodCanCatfood",
+        "Local": "Can of Cat Food",
+        "StackNumber": 10
+    },
+    {
+        "Name": "foodCanChicken",
+        "Local": "Chicken Ration",
+        "StackNumber": 10
+    },
+    {
+        "Name": "foodCanChili",
+        "Local": "Can of Chili",
+        "StackNumber": 10
+    },
+    {
+        "Name": "foodCanDogfood",
+        "StackNumber": 10,
+        "Local": "Can of Dog Food"
+    },
+    {
+        "Local": "Lamb Rations",
+        "StackNumber": 10,
+        "Name": "foodCanLamb"
+    },
+    {
+        "Name": "foodCanMiso",
+        "StackNumber": 10,
+        "Local": "Can of Miso"
+    },
+    {
+        "StackNumber": 10,
+        "Local": "Can of Pasta",
+        "Name": "foodCanPasta"
+    },
+    {
+        "Local": "Can of Pears",
+        "StackNumber": 10,
+        "Name": "foodCanPears"
+    },
+    {
+        "StackNumber": 10,
+        "Local": "Can of Peas",
+        "Name": "foodCanPeas"
+    },
+    {
+        "Name": "foodCanSalmon",
+        "Local": "Can of Salmon",
+        "StackNumber": 10
+    },
+    {
+        "Name": "foodCanSham",
+        "Local": "Can of Sham",
+        "StackNumber": 10
+    },
+    {
+        "Local": "Shamway Secret Recipe",
+        "StackNumber": 5,
+        "Name": "foodCanShamSchematic"
+    },
+    {
+        "StackNumber": 10,
+        "Local": "Chicken Soup",
+        "Name": "foodCanSoup"
+    },
+    {
+        "Name": "foodCanStock",
+        "Local": "Can of Stock",
+        "StackNumber": 10
+    },
+    {
+        "StackNumber": 10,
+        "Local": "Can of Tuna",
+        "Name": "foodCanTuna"
+    },
+    {
+        "Local": "Charred Meat",
+        "StackNumber": 10,
+        "Name": "foodCharredMeat"
+    },
+    {
+        "Name": "foodChiliDog",
+        "StackNumber": 10,
+        "Local": "Chili Dog"
+    },
+    {
+        "Name": "foodChiliDogSchematic",
+        "Local": "Chili Dog Recipe",
+        "StackNumber": 5
+    },
+    {
+        "Local": "Corn Bread",
+        "StackNumber": 10,
+        "Name": "foodCornBread"
+    },
+    {
+        "Name": "foodCornBreadSchematic",
+        "Local": "Corn Bread Recipe",
+        "StackNumber": 5
+    },
+    {
+        "Name": "foodCornMeal",
+        "StackNumber": 125,
+        "Local": "Cornmeal"
+    },
+    {
+        "Local": "Corn on the Cob",
+        "StackNumber": 10,
+        "Name": "foodCornOnTheCob"
+    },
+    {
+        "Local": "Corn on the Cob Recipe",
+        "StackNumber": 5,
+        "Name": "foodCornOnTheCobSchematic"
+    },
+    {
+        "Local": "Blueberries",
+        "StackNumber": 125,
+        "Name": "foodCropBlueberries"
+    },
+    {
+        "Local": "Ear of Corn",
+        "StackNumber": 125,
+        "Name": "foodCropCorn"
+    },
+    {
+        "StackNumber": 125,
+        "Local": "Ear of Super Corn",
+        "Name": "foodCropGraceCorn"
+    },
+    {
+        "StackNumber": 125,
+        "Local": "Mushrooms",
+        "Name": "foodCropMushrooms"
+    },
+    {
+        "Local": "Potato",
+        "StackNumber": 125,
+        "Name": "foodCropPotato"
+    },
+    {
+        "Name": "foodCropPumpkin",
+        "StackNumber": 125,
+        "Local": "Pumpkin"
+    },
+    {
+        "StackNumber": 125,
+        "Local": "Yucca Fruit",
+        "Name": "foodCropYuccaFruit"
+    },
+    {
+        "Name": "foodEgg",
+        "Local": "Egg",
+        "StackNumber": 125
+    },
+    {
+        "Local": "Boiled Egg",
+        "StackNumber": 10,
+        "Name": "foodEggBoiled"
+    },
+    {
+        "Local": "Fish Tacos",
+        "StackNumber": 10,
+        "Name": "foodFishTacos"
+    },
+    {
+        "Name": "foodFishTacosSchematic",
+        "StackNumber": 5,
+        "Local": "Fish Tacos Recipe"
+    },
+    {
+        "Local": "Grilled Meat",
+        "StackNumber": 10,
+        "Name": "foodGrilledMeat"
+    },
+    {
+        "Name": "foodGrilledMeatSchematic",
+        "Local": "Grilled Meat Recipe",
+        "StackNumber": 5
+    },
+    {
+        "StackNumber": 10,
+        "Local": "Hobo Stew",
+        "Name": "foodHoboStew"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Hobo Stew Recipe",
+        "Name": "foodHoboStewSchematic"
+    },
+    {
+        "Name": "foodHoney",
+        "StackNumber": 10,
+        "Local": "Jar of Honey"
+    },
+    {
+        "StackNumber": 10,
+        "Local": "Meat Stew",
+        "Name": "foodMeatStew"
+    },
+    {
+        "Local": "Meat Stew Recipe",
+        "StackNumber": 5,
+        "Name": "foodMeatStewSchematic"
+    },
+    {
+        "Name": "foodMoldyBread",
+        "StackNumber": 10,
+        "Local": "Moldy Bread"
+    },
+    {
+        "Name": "foodPumpkinBread",
+        "StackNumber": 10,
+        "Local": "Pumpkin Bread"
+    },
+    {
+        "Local": "Pumpkin Bread Recipe",
+        "StackNumber": 5,
+        "Name": "foodPumpkinBreadSchematic"
+    },
+    {
+        "StackNumber": 10,
+        "Local": "Pumpkin Cheesecake",
+        "Name": "foodPumpkinCheesecake"
+    },
+    {
+        "Name": "foodPumpkinCheesecakeSchematic",
+        "StackNumber": 5,
+        "Local": "Pumpkin Cheesecake Recipe"
+    },
+    {
+        "Local": "Pumpkin Pie",
+        "StackNumber": 10,
+        "Name": "foodPumpkinPie"
+    },
+    {
+        "Name": "foodPumpkinPieSchematic",
+        "Local": "Pumpkin Pie Recipe",
+        "StackNumber": 5
+    },
+    {
+        "Local": "Raw Meat",
+        "StackNumber": 125,
+        "Name": "foodRawMeat"
+    },
+    {
+        "Name": "foodRottingFlesh",
+        "Local": "Rotting Flesh",
+        "StackNumber": 125
+    },
+    {
+        "Name": "foodShamChowder",
+        "StackNumber": 10,
+        "Local": "Sham Chowder"
+    },
+    {
+        "Local": "Sham Chowder Recipe",
+        "StackNumber": 5,
+        "Name": "foodShamChowderSchematic"
+    },
+    {
+        "StackNumber": 10,
+        "Local": "Old Sham Sandwich",
+        "Name": "foodShamSandwich"
+    },
+    {
+        "Name": "foodSteakAndPotato",
+        "StackNumber": 10,
+        "Local": "Steak and Potato Meal"
+    },
+    {
+        "Name": "foodSteakAndPotatoSchematic",
+        "StackNumber": 5,
+        "Local": "Steak and Potato Meal  Recipe"
+    },
+    {
+        "Name": "foodVegetableStew",
+        "StackNumber": 10,
+        "Local": "Vegetable Stew"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Vegetable Stew Recipe",
+        "Name": "foodVegetableStewSchematic"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Dev: Fool's Cap ",
+        "Name": "foolsCapAdmin"
+    },
+    {
+        "Local": "Forge Schematic",
+        "StackNumber": 5,
+        "Name": "forgeSchematic"
+    },
+    {
+        "Name": "generatorbankSchematic",
+        "Local": "Basics of Electricity Schematic",
+        "StackNumber": 5
+    },
+    {
+        "StackNumber": 1,
+        "Local": ".44 Magnum",
+        "Name": "gun44Magnum"
+    },
+    {
+        "StackNumber": 5,
+        "Local": ".44 Magnum Schematic",
+        "Name": "gun44MagnumSchematic"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "AK-47 Machine Gun",
+        "Name": "gunAK47"
+    },
+    {
+        "Local": "AK-47  Machine Gun Schematic",
+        "StackNumber": 5,
+        "Name": "gunAK47Schematic"
+    },
+    {
+        "Name": "gunAk47Parts",
+        "Local": "Machine Gun Parts",
+        "StackNumber": 50
+    },
+    {
+        "Name": "gunBlunderbuss",
+        "Local": "Blunderbuss",
+        "StackNumber": 1
+    },
+    {
+        "Name": "gunBowCompound",
+        "Local": "Compound Bow",
+        "StackNumber": 1
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Compound Bow Schematic",
+        "Name": "gunBowCompoundSchematic"
+    },
+    {
+        "Local": "Primitive Bow",
+        "StackNumber": 1,
+        "Name": "gunBowPrimitive"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Wooden Bow",
+        "Name": "gunBowWooden"
+    },
+    {
+        "StackNumber": 50,
+        "Local": "Bow / Crossbow Parts",
+        "Name": "gunBowWoodenParts"
+    },
+    {
+        "Local": "Wooden Bow Schematic",
+        "StackNumber": 5,
+        "Name": "gunBowWoodenSchematic"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Compound Crossbow",
+        "Name": "gunCrossbowCompound"
+    },
+    {
+        "Name": "gunCrossbowCompoundSchematic",
+        "Local": "Compound Crossbow Schematic",
+        "StackNumber": 5
+    },
+    {
+        "Local": "Iron Crossbow",
+        "StackNumber": 1,
+        "Name": "gunCrossbowIron"
+    },
+    {
+        "Name": "gunCrossbowIronSchematic",
+        "Local": "Iron Crossbow Schematic",
+        "StackNumber": 5
+    },
+    {
+        "Name": "gunDoubleBarrelShotgun",
+        "StackNumber": 1,
+        "Local": "Double Barrel Shotgun"
+    },
+    {
+        "Local": "Shotgun Parts",
+        "StackNumber": 50,
+        "Name": "gunDoubleBarrelShotgunParts"
+    },
+    {
+        "Name": "gunDoubleBarrelShotgunSchematic",
+        "StackNumber": 5,
+        "Local": "Double Barrel Shotgun Schematic"
+    },
+    {
+        "Local": "Hunting Rifle",
+        "StackNumber": 1,
+        "Name": "gunHuntingRifle"
+    },
+    {
+        "StackNumber": 50,
+        "Local": "Rifle Parts",
+        "Name": "gunHuntingRifleParts"
+    },
+    {
+        "Name": "gunHuntingRifleSchematic",
+        "Local": "Hunting Rifle Schematic",
+        "StackNumber": 5
+    },
+    {
+        "Local": "Junk Turret",
+        "StackNumber": 1,
+        "Name": "gunJunkTurret"
+    },
+    {
+        "Local": "Junk Turret Parts",
+        "StackNumber": 50,
+        "Name": "gunJunkTurretParts"
+    },
+    {
+        "Name": "gunJunkTurretSchematic",
+        "StackNumber": 5,
+        "Local": "Junk Turret Schematic"
+    },
+    {
+        "Name": "gunM60",
+        "Local": "M60 Machine Gun",
+        "StackNumber": 1
+    },
+    {
+        "Name": "gunMR10",
+        "Local": "Marksman Rifle",
+        "StackNumber": 1
+    },
+    {
+        "Name": "gunMR10Schematic",
+        "Local": "Marksman Rifle Schematic",
+        "StackNumber": 5
+    },
+    {
+        "Local": "Pistol",
+        "StackNumber": 1,
+        "Name": "gunPistol"
+    },
+    {
+        "Name": "gunPistolAdmin",
+        "StackNumber": 1,
+        "Local": "Dev: Instant Death Pistol"
+    },
+    {
+        "Name": "gunPistolParts",
+        "StackNumber": 50,
+        "Local": "Handgun Parts"
+    },
+    {
+        "Name": "gunPistolSchematic",
+        "Local": "Pistol Schematic",
+        "StackNumber": 5
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Pump Shotgun",
+        "Name": "gunPumpShotgun"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Pump Shotgun Schematic",
+        "Name": "gunPumpShotgunSchematic"
+    },
+    {
+        "Local": "Rocket Launcher",
+        "StackNumber": 1,
+        "Name": "gunRocketLauncher"
+    },
+    {
+        "Name": "gunRocketLauncherParts",
+        "Local": "Rocket Launcher Parts",
+        "StackNumber": 50
+    },
+    {
+        "Local": "Rocket Launcher Schematic",
+        "StackNumber": 5,
+        "Name": "gunRocketLauncherSchematic"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "SMG-5",
+        "Name": "gunSMG5"
+    },
+    {
+        "Name": "gunSMG5Schematic",
+        "Local": "SMG-5 Schematic",
+        "StackNumber": 5
+    },
+    {
+        "Name": "gunTacticalAR",
+        "Local": "Tactical Assault Rifle",
+        "StackNumber": 1
+    },
+    {
+        "Name": "gunToolDiggerAdmin",
+        "StackNumber": 1,
+        "Local": "Dev: Super Digger"
+    },
+    {
+        "Name": "gunToolNailgun",
+        "StackNumber": 1,
+        "Local": "Nailgun"
+    },
+    {
+        "Name": "gunToolNailgunSchematic",
+        "StackNumber": 5,
+        "Local": "Nailgun Schematic"
+    },
+    {
+        "Name": "handPlayer",
+        "StackNumber": 1,
+        "Local": "handPlayer"
+    },
+    {
+        "Name": "invisibleRecipesForRepairCost",
+        "Local": "invisibleRecipesForRepairCost",
+        "StackNumber": 5
+    },
+    {
+        "StackNumber": 15,
+        "Local": "Aloe Cream",
+        "Name": "medicalAloeCream"
+    },
+    {
+        "StackNumber": 10,
+        "Local": "Bandage",
+        "Name": "medicalBandage"
+    },
+    {
+        "Local": "Blood Bag",
+        "StackNumber": 15,
+        "Name": "medicalBloodBag"
+    },
+    {
+        "Name": "medicalBloodDrawKit",
+        "StackNumber": 1,
+        "Local": "Scrappable Junk"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Scrappable Junk",
+        "Name": "medicalBloodDrawKitSchematic"
+    },
+    {
+        "Name": "medicalFirstAidBandage",
+        "Local": "First Aid Bandage",
+        "StackNumber": 5
+    },
+    {
+        "Local": "First Aid Bandage Schematic",
+        "StackNumber": 5,
+        "Name": "medicalFirstAidBandageSchematic"
+    },
+    {
+        "Name": "medicalFirstAidKit",
+        "Local": "First Aid Kit",
+        "StackNumber": 5
+    },
+    {
+        "Local": "First Aid Kit Schematic",
+        "StackNumber": 5,
+        "Name": "medicalFirstAidKitSchematic"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Plaster Cast",
+        "Name": "medicalPlasterCast"
+    },
+    {
+        "Name": "medicalPlasterCastSchematic",
+        "Local": "Plaster Cast Schematic",
+        "StackNumber": 5
+    },
+    {
+        "Name": "medicalSplint",
+        "StackNumber": 5,
+        "Local": "Splint"
+    },
+    {
+        "Name": "meleeClubBaseballBat",
+        "StackNumber": 1,
+        "Local": "Baseball Bat"
+    },
+    {
+        "Name": "meleeClubBaseballBatParts",
+        "StackNumber": 50,
+        "Local": "Baseball Bat Parts"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Candy Cane Club",
+        "Name": "meleeClubCandy"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Iron Reinforced Club",
+        "Name": "meleeClubIron"
+    },
+    {
+        "Name": "meleeClubIronSchematic",
+        "StackNumber": 5,
+        "Local": "Iron Reinforced Club Schematic"
+    },
+    {
+        "Name": "meleeClubWood",
+        "Local": "Wooden Club",
+        "StackNumber": 1
+    },
+    {
+        "Local": "meleeHandAnimalBear",
+        "StackNumber": 1,
+        "Name": "meleeHandAnimalBear"
+    },
+    {
+        "Name": "meleeHandAnimalCoyote",
+        "StackNumber": 1,
+        "Local": "meleeHandAnimalCoyote"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "meleeHandAnimalDireWolf",
+        "Name": "meleeHandAnimalDireWolf"
+    },
+    {
+        "Name": "meleeHandAnimalSnake",
+        "StackNumber": 1,
+        "Local": "meleeHandAnimalSnake"
+    },
+    {
+        "Name": "meleeHandAnimalWolf",
+        "Local": "meleeHandAnimalWolf",
+        "StackNumber": 1
+    },
+    {
+        "Local": "meleeHandAnimalZombieBear",
+        "StackNumber": 1,
+        "Name": "meleeHandAnimalZombieBear"
+    },
+    {
+        "Local": "meleeHandAnimalZombieBearFeral",
+        "StackNumber": 1,
+        "Name": "meleeHandAnimalZombieBearFeral"
+    },
+    {
+        "Name": "meleeHandAnimalZombieDog",
+        "Local": "meleeHandAnimalZombieDog",
+        "StackNumber": 1
+    },
+    {
+        "StackNumber": 1,
+        "Local": "meleeHandAnimalZombieVulture",
+        "Name": "meleeHandAnimalZombieVulture"
+    },
+    {
+        "Name": "meleeHandBossGrace",
+        "Local": "meleeHandBossGrace",
+        "StackNumber": 1
+    },
+    {
+        "Name": "meleeHandMaster",
+        "StackNumber": 1,
+        "Local": "meleeHandMaster"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "meleeHandPlayer",
+        "Name": "meleeHandPlayer"
+    },
+    {
+        "Local": "meleeHandZombie01",
+        "StackNumber": 1,
+        "Name": "meleeHandZombie01"
+    },
+    {
+        "Name": "meleeHandZombie02",
+        "StackNumber": 1,
+        "Local": "meleeHandZombie02"
+    },
+    {
+        "Name": "meleeHandZombie02Feral",
+        "Local": "meleeHandZombie02Feral",
+        "StackNumber": 1
+    },
+    {
+        "Local": "meleeHandZombieBehemoth",
+        "StackNumber": 1,
+        "Name": "meleeHandZombieBehemoth"
+    },
+    {
+        "Local": "meleeHandZombieBurning",
+        "StackNumber": 1,
+        "Name": "meleeHandZombieBurning"
+    },
+    {
+        "Name": "meleeHandZombieBurningCrawler",
+        "StackNumber": 1,
+        "Local": "meleeHandZombieBurningCrawler"
+    },
+    {
+        "Local": "meleeHandZombieBurningFeral",
+        "StackNumber": 1,
+        "Name": "meleeHandZombieBurningFeral"
+    },
+    {
+        "Name": "meleeHandZombieCop",
+        "StackNumber": 1,
+        "Local": "meleeHandZombieCop"
+    },
+    {
+        "Local": "meleeHandZombieCopFeral",
+        "StackNumber": 1,
+        "Name": "meleeHandZombieCopFeral"
+    },
+    {
+        "Name": "meleeHandZombieCopRadiated",
+        "StackNumber": 1,
+        "Local": "meleeHandZombieCopRadiated"
+    },
+    {
+        "Local": "meleeHandZombieDemolition",
+        "StackNumber": 1,
+        "Name": "meleeHandZombieDemolition"
+    },
+    {
+        "Name": "meleeHandZombieFeral",
+        "Local": "meleeHandZombieFeral",
+        "StackNumber": 1
+    },
+    {
+        "Name": "meleeHandZombieFootballPlayer",
+        "Local": "meleeHandZombieFootballPlayer",
+        "StackNumber": 1
+    },
+    {
+        "StackNumber": 1,
+        "Local": "meleeHandZombieFootballPlayerFeral",
+        "Name": "meleeHandZombieFootballPlayerFeral"
+    },
+    {
+        "Local": "meleeHandZombieHazMat",
+        "StackNumber": 1,
+        "Name": "meleeHandZombieHazMat"
+    },
+    {
+        "Local": "meleeHandZombieHazMatFeral",
+        "StackNumber": 1,
+        "Name": "meleeHandZombieHazMatFeral"
+    },
+    {
+        "Local": "meleeHandZombieStripper",
+        "StackNumber": 1,
+        "Name": "meleeHandZombieStripper"
+    },
+    {
+        "Local": "meleeHandZombieStripperFeral",
+        "StackNumber": 1,
+        "Name": "meleeHandZombieStripperFeral"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "meleeHandZombieStrong",
+        "Name": "meleeHandZombieStrong"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "meleeHandZombieStrongFeral",
+        "Name": "meleeHandZombieStrongFeral"
+    },
+    {
+        "Name": "meleeHandZombieWorker",
+        "Local": "meleeHandZombieWorker",
+        "StackNumber": 1
+    },
+    {
+        "Name": "meleeHandZombieWorkerFeral",
+        "StackNumber": 1,
+        "Local": "meleeHandZombieWorkerFeral"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Iron Knuckles",
+        "Name": "meleeKnucklesIron"
+    },
+    {
+        "Name": "meleeKnucklesIronSchematic",
+        "Local": "Iron Knuckles Schematic",
+        "StackNumber": 5
+    },
+    {
+        "Name": "meleeKnucklesLeather",
+        "Local": "Knuckle Wraps",
+        "StackNumber": 1
+    },
+    {
+        "Local": "Steel Knuckles",
+        "StackNumber": 1,
+        "Name": "meleeKnucklesSteel"
+    },
+    {
+        "StackNumber": 50,
+        "Local": "Steel Knuckles Parts",
+        "Name": "meleeKnucklesSteelParts"
+    },
+    {
+        "Name": "meleeKnucklesSteelSchematic",
+        "Local": "Steel Knuckles Schematic",
+        "StackNumber": 5
+    },
+    {
+        "Local": "Stun Baton",
+        "StackNumber": 1,
+        "Name": "meleeStunBaton"
+    },
+    {
+        "StackNumber": 50,
+        "Local": "Stun Baton Parts",
+        "Name": "meleeStunBatonParts"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Stun Baton Baton Schematic",
+        "Name": "meleeStunBatonSchematic"
+    },
+    {
+        "Name": "meleeThrownSpearIron",
+        "StackNumber": 1,
+        "Local": "Iron Spear"
+    },
+    {
+        "Name": "meleeThrownSpearIronSchematic",
+        "StackNumber": 5,
+        "Local": "Iron Spear Schematic"
+    },
+    {
+        "Name": "meleeThrownSpearSteel",
+        "Local": "Steel Spear",
+        "StackNumber": 1
+    },
+    {
+        "Name": "meleeThrownSpearSteelParts",
+        "StackNumber": 50,
+        "Local": "Steel Spear Parts"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Steel Spear Schematic",
+        "Name": "meleeThrownSpearSteelSchematic"
+    },
+    {
+        "Local": "Stone Spear",
+        "StackNumber": 1,
+        "Name": "meleeThrownSpearStone"
+    },
+    {
+        "Name": "meleeToolAllSteelParts",
+        "StackNumber": 50,
+        "Local": "Steel Tool Parts"
+    },
+    {
+        "Name": "meleeToolAuger",
+        "StackNumber": 1,
+        "Local": "Auger"
+    },
+    {
+        "Name": "meleeToolAugerSchematic",
+        "Local": "Auger Schematic",
+        "StackNumber": 5
+    },
+    {
+        "Name": "meleeToolBlockReplaceTool",
+        "Local": "Block Replace Tool",
+        "StackNumber": 1
+    },
+    {
+        "Name": "meleeToolChainsaw",
+        "Local": "Chainsaw",
+        "StackNumber": 1
+    },
+    {
+        "Name": "meleeToolChainsawParts",
+        "Local": "Motor Tool Parts",
+        "StackNumber": 50
+    },
+    {
+        "Name": "meleeToolChainsawSchematic",
+        "StackNumber": 5,
+        "Local": "Chainsaw Schematic"
+    },
+    {
+        "Local": "Claw Hammer",
+        "StackNumber": 1,
+        "Name": "meleeToolClawHammer"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Iron Fireaxe",
+        "Name": "meleeToolFireaxeIron"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Steel Fireaxe",
+        "Name": "meleeToolFireaxeSteel"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Flashlight",
+        "Name": "meleeToolFlashlight02"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Dev: Hammer Of God",
+        "Name": "meleeToolHammerOfGodAdmin"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "meleeToolHoeIron",
+        "Name": "meleeToolHoeIron"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "meleeToolHoeIronSchematic",
+        "Name": "meleeToolHoeIronSchematic"
+    },
+    {
+        "Name": "meleeToolIronSetSchematic",
+        "Local": "Iron Tools Schematic",
+        "StackNumber": 5
+    },
+    {
+        "Name": "meleeToolKnifeBone",
+        "Local": "Bone Knife",
+        "StackNumber": 1
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Candy Cane Knife",
+        "Name": "meleeToolKnifeCandy"
+    },
+    {
+        "Name": "meleeToolKnifeIron",
+        "StackNumber": 1,
+        "Local": "Hunting Knife"
+    },
+    {
+        "Name": "meleeToolKnifeIronSchematic",
+        "StackNumber": 5,
+        "Local": "Hunting Knife Schematic"
+    },
+    {
+        "Local": "Machete",
+        "StackNumber": 1,
+        "Name": "meleeToolKnifeMachete"
+    },
+    {
+        "Name": "meleeToolKnifeMacheteParts",
+        "Local": "Machete Parts",
+        "StackNumber": 50
+    },
+    {
+        "Local": "Machete Schematic",
+        "StackNumber": 5,
+        "Name": "meleeToolKnifeMacheteSchematic"
+    },
+    {
+        "Name": "meleeToolPaintTool",
+        "Local": "Paint Brush",
+        "StackNumber": 1
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Dev: Paint Brush",
+        "Name": "meleeToolPaintToolAdmin"
+    },
+    {
+        "Local": "Iron Pickaxe",
+        "StackNumber": 1,
+        "Name": "meleeToolPickaxeIron"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Steel Pickaxe",
+        "Name": "meleeToolPickaxeSteel"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Iron Shovel",
+        "Name": "meleeToolShovelIron"
+    },
+    {
+        "Name": "meleeToolShovelSteel",
+        "Local": "Steel Shovel",
+        "StackNumber": 1
+    },
+    {
+        "Name": "meleeToolShovelStone",
+        "StackNumber": 1,
+        "Local": "Stone Shovel"
+    },
+    {
+        "Local": "Iron Sledgehammer",
+        "StackNumber": 1,
+        "Name": "meleeToolSledgehammerIron"
+    },
+    {
+        "Local": "Iron Sledgehammer Schematic",
+        "StackNumber": 5,
+        "Name": "meleeToolSledgehammerIronSchematic"
+    },
+    {
+        "Name": "meleeToolSledgehammerSteel",
+        "Local": "Steel Sledgehammer",
+        "StackNumber": 1
+    },
+    {
+        "StackNumber": 50,
+        "Local": "Steel Sledgehammer Parts",
+        "Name": "meleeToolSledgehammerSteelParts"
+    },
+    {
+        "Name": "meleeToolSledgehammerSteelSchematic",
+        "Local": "Steel Sledgehammer Schematic",
+        "StackNumber": 5
+    },
+    {
+        "Name": "meleeToolSledgehammerStone",
+        "StackNumber": 1,
+        "Local": "Stone Sledgehammer"
+    },
+    {
+        "Name": "meleeToolSteelSetSchematic",
+        "Local": "Steel Tools Schematic",
+        "StackNumber": 5
+    },
+    {
+        "Name": "meleeToolStoneAxe",
+        "StackNumber": 1,
+        "Local": "Stone Axe"
+    },
+    {
+        "Local": "Taza's Stone Axe",
+        "StackNumber": 1,
+        "Name": "meleeToolStoneAxeTazas"
+    },
+    {
+        "Local": "Torch",
+        "StackNumber": 50,
+        "Name": "meleeToolTorch"
+    },
+    {
+        "Name": "meleeToolWireTool",
+        "Local": "Wire Tool",
+        "StackNumber": 1
+    },
+    {
+        "Name": "meleeToolWrench",
+        "StackNumber": 1,
+        "Local": "Wrench"
+    },
+    {
+        "Name": "meleeToolWrenchAdmin",
+        "Local": "Dev: Super Wrench",
+        "StackNumber": 1
+    },
+    {
+        "Local": "Wrench Schematic",
+        "StackNumber": 5,
+        "Name": "meleeToolWrenchSchematic"
+    },
+    {
+        "Name": "missingIcon",
+        "Local": "missingIcon",
+        "StackNumber": 500
+    },
+    {
+        "Name": "modArmorAdvancedMuffledConnectors",
+        "Local": "Advanced Muffled Connectors Mod",
+        "StackNumber": 1
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Adv.Muffled Connectors Mod Schematic",
+        "Name": "modArmorAdvancedMuffledConnectorsSchematic"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Ball Cap Mod",
+        "Name": "modArmorBallCap"
+    },
+    {
+        "Name": "modArmorBandolier",
+        "Local": "Bandolier Mod",
+        "StackNumber": 1
+    },
+    {
+        "Name": "modArmorBandolierSchematic",
+        "StackNumber": 5,
+        "Local": "Bandolier Mod Schematic"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Cooling Mesh Mod",
+        "Name": "modArmorCoolingMesh"
+    },
+    {
+        "Local": "Cooling Mesh Mod Schematic",
+        "StackNumber": 5,
+        "Name": "modArmorCoolingMeshSchematic"
+    },
+    {
+        "Name": "modArmorCowboyHat",
+        "Local": "Cowboy Hat Mod",
+        "StackNumber": 1
+    },
+    {
+        "Name": "modArmorCustomizedFittings",
+        "Local": "Customized Fittings Mod",
+        "StackNumber": 1
+    },
+    {
+        "Name": "modArmorCustomizedFittingsSchematic",
+        "StackNumber": 5,
+        "Local": "Customized Fittings Mod Schematic"
+    },
+    {
+        "Local": "Double Storage Pocket Mod",
+        "StackNumber": 1,
+        "Name": "modArmorDoubleStoragePocket"
+    },
+    {
+        "Local": "Double Storage Pocket Mod Schematic",
+        "StackNumber": 5,
+        "Name": "modArmorDoubleStoragePocketSchematic"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Helmet Light Mod",
+        "Name": "modArmorHelmetLight"
+    },
+    {
+        "Name": "modArmorHelmetLightSchematic",
+        "StackNumber": 5,
+        "Local": "Helmet Light Mod Schematic"
+    },
+    {
+        "Name": "modArmorImpactBracing",
+        "StackNumber": 1,
+        "Local": "Impact Bracing Mod"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Impact Bracing Mod Schematic",
+        "Name": "modArmorImpactBracingSchematic"
+    },
+    {
+        "Local": "Improved Fittings Mod",
+        "StackNumber": 1,
+        "Name": "modArmorImprovedFittings"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Improved Fittings Mod Schematic",
+        "Name": "modArmorImprovedFittingsSchematic"
+    },
+    {
+        "Name": "modArmorInsulatedLiner",
+        "StackNumber": 1,
+        "Local": "Insulated Liner Mod"
+    },
+    {
+        "Name": "modArmorInsulatedLinerSchematic",
+        "Local": "Insulated Liner Mod Schematic",
+        "StackNumber": 5
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Jump Jets Mod",
+        "Name": "modArmorJumpJets"
+    },
+    {
+        "Name": "modArmorMuffledConnectors",
+        "StackNumber": 1,
+        "Local": "Muffled Connectors Mod"
+    },
+    {
+        "Local": "Muffled Connectors Mod Schematic",
+        "StackNumber": 5,
+        "Name": "modArmorMuffledConnectorsSchematic"
+    },
+    {
+        "Local": "Armor Plating Mod",
+        "StackNumber": 1,
+        "Name": "modArmorPlatingBasic"
+    },
+    {
+        "Local": "Armor Plating Mod Schematic",
+        "StackNumber": 5,
+        "Name": "modArmorPlatingBasicSchematic"
+    },
+    {
+        "Local": "Banded Armor Plating Mod",
+        "StackNumber": 1,
+        "Name": "modArmorPlatingReinforced"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Banded Armor Plating Mod Schematic",
+        "Name": "modArmorPlatingReinforcedSchematic"
+    },
+    {
+        "Local": "Press Boy Cap Mod",
+        "StackNumber": 1,
+        "Name": "modArmorPressboyCap"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Skull Cap Mod",
+        "Name": "modArmorSkullCap"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Storage Pocket Mod",
+        "Name": "modArmorStoragePocket"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Storage Pocket Mod Schematic",
+        "Name": "modArmorStoragePocketSchematic"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Triple Storage Pocket Mod",
+        "Name": "modArmorTripleStoragePocket"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Triple Storage Pocket Mod Schematic",
+        "Name": "modArmorTripleStoragePocketSchematic"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Water Purifier Mod",
+        "Name": "modArmorWaterPurifier"
+    },
+    {
+        "Name": "modArmorWaterPurifierSchematic",
+        "Local": "Water Purifier Mod Schematic",
+        "StackNumber": 5
+    },
+    {
+        "Local": "Cargo Storage Pocket Mod",
+        "StackNumber": 1,
+        "Name": "modClothingCargoStoragePocket"
+    },
+    {
+        "Name": "modClothingStoragePocket",
+        "StackNumber": 1,
+        "Local": "Storage Pocket Mod"
+    },
+    {
+        "Name": "modDyeBlack",
+        "StackNumber": 1,
+        "Local": "Dye: Black"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Dye: Blue",
+        "Name": "modDyeBlue"
+    },
+    {
+        "Local": "Dye: Brown",
+        "StackNumber": 1,
+        "Name": "modDyeBrown"
+    },
+    {
+        "Local": "Dye: Green",
+        "StackNumber": 1,
+        "Name": "modDyeGreen"
+    },
+    {
+        "Name": "modDyePink",
+        "Local": "Dye: Pink",
+        "StackNumber": 1
+    },
+    {
+        "Name": "modDyePurple",
+        "Local": "Dye: Purple",
+        "StackNumber": 1
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Dye: Red",
+        "Name": "modDyeRed"
+    },
+    {
+        "Name": "modDyeWhite",
+        "Local": "Dye: Solvent",
+        "StackNumber": 1
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Dye: Yellow",
+        "Name": "modDyeYellow"
+    },
+    {
+        "Name": "modFuelTankLarge",
+        "StackNumber": 1,
+        "Local": "Power Tool Large Tank Mod"
+    },
+    {
+        "Local": "Power Tool Large Tank Mod Schematic",
+        "StackNumber": 5,
+        "Name": "modFuelTankLargeSchematic"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Power Tool Small Tank Mod",
+        "Name": "modFuelTankSmall"
+    },
+    {
+        "Local": "Power Tool Small Tank Mod Schematic",
+        "StackNumber": 5,
+        "Name": "modFuelTankSmallSchematic"
+    },
+    {
+        "Local": "Barrel Extender Mod",
+        "StackNumber": 1,
+        "Name": "modGunBarrelExtender"
+    },
+    {
+        "Name": "modGunBarrelExtenderSchematic",
+        "Local": "Barrel Extender Mod Schematic",
+        "StackNumber": 5
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Bipod Mod",
+        "Name": "modGunBipod"
+    },
+    {
+        "Local": "Bipod Mod Schematic",
+        "StackNumber": 5,
+        "Name": "modGunBipodSchematic"
+    },
+    {
+        "Name": "modGunBowArrowRest",
+        "StackNumber": 1,
+        "Local": "Arrow Rest Mod"
+    },
+    {
+        "Name": "modGunBowArrowRestSchematic",
+        "Local": "Arrow Rest Mod Schematic",
+        "StackNumber": 5
+    },
+    {
+        "Name": "modGunBowPolymerString",
+        "StackNumber": 1,
+        "Local": "Polymer String Mod"
+    },
+    {
+        "Name": "modGunBowPolymerStringSchematic",
+        "Local": "Polymer String Mod Schematic",
+        "StackNumber": 5
+    },
+    {
+        "Local": "Buttkick 3000 Mod",
+        "StackNumber": 1,
+        "Name": "modGunButtkick3000"
+    },
+    {
+        "Local": "Buttkick 4000 Mod - Perks",
+        "StackNumber": 1,
+        "Name": "modGunButtkick4000"
+    },
+    {
+        "Name": "modGunChoke",
+        "StackNumber": 1,
+        "Local": "Shotgun Choke Mod"
+    },
+    {
+        "Name": "modGunChokeSchematic",
+        "Local": "Shotgun Choke Mod Schematic",
+        "StackNumber": 5
+    },
+    {
+        "Name": "modGunCrippleEm",
+        "Local": "Cripple 'Em Mod",
+        "StackNumber": 1
+    },
+    {
+        "Name": "modGunCrippleEmSchematic",
+        "Local": "Cripple 'Em Mod Schematic",
+        "StackNumber": 5
+    },
+    {
+        "Local": "Drum Magazine Mod",
+        "StackNumber": 1,
+        "Name": "modGunDrumMagazineExtender"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Shotgun Duckbill Mod",
+        "Name": "modGunDuckbill"
+    },
+    {
+        "Name": "modGunDuckbillSchematic",
+        "StackNumber": 5,
+        "Local": "Shotgun Duckbill Mod Schematic"
+    },
+    {
+        "Local": "Weapon Flashlight Mod",
+        "StackNumber": 1,
+        "Name": "modGunFlashlight"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Weapon Flashlight Mod Schematic",
+        "Name": "modGunFlashlightSchematic"
+    },
+    {
+        "Name": "modGunForegrip",
+        "StackNumber": 1,
+        "Local": "Fore Grip Mod"
+    },
+    {
+        "Name": "modGunForegripSchematic",
+        "Local": "Fore Grip Mod Schematic ",
+        "StackNumber": 5
+    },
+    {
+        "Name": "modGunLaserSight",
+        "Local": "Laser Sight Mod",
+        "StackNumber": 1
+    },
+    {
+        "Local": "Laser Sight Mod Schematic",
+        "StackNumber": 5,
+        "Name": "modGunLaserSightSchematic"
+    },
+    {
+        "Name": "modGunMagazineExtender",
+        "StackNumber": 1,
+        "Local": "Magazine Extender Mod"
+    },
+    {
+        "Local": "Magazine Extender Mod Schematic",
+        "StackNumber": 5,
+        "Name": "modGunMagazineExtenderSchematic"
+    },
+    {
+        "Name": "modGunMeleeBlessedMetal",
+        "Local": "Blessed Metal Mod",
+        "StackNumber": 1
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Blessed Metal Mod Schematic",
+        "Name": "modGunMeleeBlessedMetalSchematic"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Flammable Oil Mod",
+        "Name": "modGunMeleeFlammableOil"
+    },
+    {
+        "Name": "modGunMeleeLiquidNitrogen",
+        "StackNumber": 1,
+        "Local": "Liquid Nitrogen Mod"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "NiCd Battery Mod",
+        "Name": "modGunMeleeNiCdBattery"
+    },
+    {
+        "Name": "modGunMeleeRadRemover",
+        "Local": "Rad Remover Mod",
+        "StackNumber": 1
+    },
+    {
+        "Name": "modGunMeleeRadRemoverSchematic",
+        "StackNumber": 5,
+        "Local": "Rad Remover Mod Schematic"
+    },
+    {
+        "Name": "modGunMeleeTheHunter",
+        "StackNumber": 1,
+        "Local": "The Hunter Mod"
+    },
+    {
+        "Local": "The Hunter Mod Schematic",
+        "StackNumber": 5,
+        "Name": "modGunMeleeTheHunterSchematic"
+    },
+    {
+        "Name": "modGunMuzzleBrake",
+        "StackNumber": 1,
+        "Local": "Muzzle Brake Mod"
+    },
+    {
+        "Name": "modGunMuzzleBrakeSchematic",
+        "StackNumber": 5,
+        "Local": "Muzzle Brake Mod Schematic"
+    },
+    {
+        "Local": "Reflex Sight Mod",
+        "StackNumber": 1,
+        "Name": "modGunReflexSight"
+    },
+    {
+        "Name": "modGunReflexSightSchematic",
+        "Local": "Reflex Sight Mod Schematic",
+        "StackNumber": 5
+    },
+    {
+        "Name": "modGunRetractingStock",
+        "Local": "Retracting Stock Mod",
+        "StackNumber": 1
+    },
+    {
+        "Name": "modGunRetractingStockSchematic",
+        "Local": "Retracting Stock Mod Schematic",
+        "StackNumber": 5
+    },
+    {
+        "Name": "modGunRodAndSpring",
+        "StackNumber": 1,
+        "Local": "Rod and Spring  Mod"
+    },
+    {
+        "Local": "Rod and Spring  Mod Schematic",
+        "StackNumber": 5,
+        "Name": "modGunRodAndSpringSchematic"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Scope 8x Mod",
+        "Name": "modGunScopeLarge"
+    },
+    {
+        "Name": "modGunScopeLargeSchematic",
+        "StackNumber": 5,
+        "Local": "Scope 8x Mod Schematic"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Scope 4x Mod",
+        "Name": "modGunScopeMedium"
+    },
+    {
+        "Name": "modGunScopeMediumSchematic",
+        "StackNumber": 5,
+        "Local": "Scope 4x Mod Schematic"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Scope 2x Mod",
+        "Name": "modGunScopeSmall"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Scope 2x Mod Schematic",
+        "Name": "modGunScopeSmallSchematic"
+    },
+    {
+        "Name": "modGunShotgunTubeExtenderMagazine",
+        "Local": "Shotgun Tube Extender Mod",
+        "StackNumber": 1
+    },
+    {
+        "Name": "modGunSoundSuppressorSilencer",
+        "Local": "Silencer Mod",
+        "StackNumber": 1
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Silencer Mod Schematic",
+        "Name": "modGunSoundSuppressorSilencerSchematic"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Trigger Group: Full Auto Mod",
+        "Name": "modGunTriggerGroupAutomatic"
+    },
+    {
+        "Name": "modGunTriggerGroupAutomaticSchematic",
+        "StackNumber": 5,
+        "Local": "Trigger Group: Full Auto Mod Schematic"
+    },
+    {
+        "Local": "Trigger Group: Burst Mod",
+        "StackNumber": 1,
+        "Name": "modGunTriggerGroupBurst3"
+    },
+    {
+        "Local": "Trigger Group: Burst Mod Schematic",
+        "StackNumber": 5,
+        "Name": "modGunTriggerGroupBurst3Schematic"
+    },
+    {
+        "Name": "modGunTriggerGroupSemi",
+        "Local": "Trigger Group: Semi Mod",
+        "StackNumber": 1
+    },
+    {
+        "Name": "modGunTriggerGroupSemiSchematic",
+        "Local": "Trigger Group: Semi Mod Schematic",
+        "StackNumber": 5
+    },
+    {
+        "Name": "modMeleeBunkerBuster",
+        "StackNumber": 1,
+        "Local": "Bunker Buster Mod"
+    },
+    {
+        "Local": "Bunker Buster Mod Schematic",
+        "StackNumber": 5,
+        "Name": "modMeleeBunkerBusterSchematic"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Barbed Wire Mod",
+        "Name": "modMeleeClubBarbedWire"
+    },
+    {
+        "Name": "modMeleeClubBarbedWireSchematic",
+        "StackNumber": 5,
+        "Local": "Barbed Wire Mod Schematic"
+    },
+    {
+        "Name": "modMeleeClubBurningShaft",
+        "Local": "Burning Shaft Mod",
+        "StackNumber": 1
+    },
+    {
+        "Name": "modMeleeClubBurningShaftSchematic",
+        "StackNumber": 5,
+        "Local": "Burning Shaft Mod Schematic"
+    },
+    {
+        "Name": "modMeleeClubMetalChain",
+        "Local": "Metal Chain Mod",
+        "StackNumber": 1
+    },
+    {
+        "Name": "modMeleeClubMetalSpikes",
+        "Local": "Metal Spikes Mod",
+        "StackNumber": 1
+    },
+    {
+        "Name": "modMeleeClubMetalSpikesSchematic",
+        "Local": "Metal Spikes Mod Schematic",
+        "StackNumber": 5
+    },
+    {
+        "Name": "modMeleeDiamondTip",
+        "StackNumber": 1,
+        "Local": "Diamond Blade Tip Mod "
+    },
+    {
+        "Name": "modMeleeErgonomicGrip",
+        "Local": "Ergonomic Grip Mod ",
+        "StackNumber": 1
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Ergonomic Grip Mod Schematic",
+        "Name": "modMeleeErgonomicGripSchematic"
+    },
+    {
+        "Name": "modMeleeFiremansAxeMod",
+        "Local": "Fireman's Axe Mod",
+        "StackNumber": 1
+    },
+    {
+        "Name": "modMeleeFortifyingGrip",
+        "StackNumber": 1,
+        "Local": "Fortifying Grip Mod"
+    },
+    {
+        "Local": "Fortifying Grip Mod Schematic",
+        "StackNumber": 5,
+        "Name": "modMeleeFortifyingGripSchematic"
+    },
+    {
+        "Name": "modMeleeGraveDigger",
+        "Local": "Grave Digger Mod ",
+        "StackNumber": 1
+    },
+    {
+        "Local": "Grave Digger Mod Schematic",
+        "StackNumber": 5,
+        "Name": "modMeleeGraveDiggerSchematic"
+    },
+    {
+        "Name": "modMeleeIronBreaker",
+        "StackNumber": 1,
+        "Local": "Iron Breaker Mod"
+    },
+    {
+        "Local": "Iron Breaker Mod Schematic",
+        "StackNumber": 5,
+        "Name": "modMeleeIronBreakerSchematic"
+    },
+    {
+        "Local": "Serrated Blade Mod",
+        "StackNumber": 1,
+        "Name": "modMeleeSerratedBlade"
+    },
+    {
+        "Name": "modMeleeSerratedBladeSchematic",
+        "Local": "Serrated Blade Mod Schematic",
+        "StackNumber": 5
+    },
+    {
+        "Name": "modMeleeStructuralBrace",
+        "Local": "Structural Brace Mod",
+        "StackNumber": 1
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Structural Brace Mod Schematic",
+        "Name": "modMeleeStructuralBraceSchematic"
+    },
+    {
+        "Name": "modMeleeTemperedBlade",
+        "StackNumber": 1,
+        "Local": "Tempered Blade Mod"
+    },
+    {
+        "Name": "modMeleeTemperedBladeSchematic",
+        "Local": "Tempered Blade Schematic",
+        "StackNumber": 5
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Weighted Head Mod",
+        "Name": "modMeleeWeightedHead"
+    },
+    {
+        "Name": "modMeleeWeightedHeadSchematic",
+        "StackNumber": 5,
+        "Local": "Weighted Head Mod Schematic"
+    },
+    {
+        "Local": "Wood Splitter Mod",
+        "StackNumber": 1,
+        "Name": "modMeleeWoodSplitter"
+    },
+    {
+        "Name": "modMeleeWoodSplitterSchematic",
+        "Local": "Wood Splitter Mod Schematic",
+        "StackNumber": 5
+    },
+    {
+        "Local": "Radiation Ready Mod",
+        "StackNumber": 1,
+        "Name": "modRadiationReady"
+    },
+    {
+        "Name": "modShotgunSawedOffBarrel",
+        "StackNumber": 1,
+        "Local": "Sawed-Off Shotgun Mod"
+    },
+    {
+        "Name": "modShotgunSawedOffBarrelSchematic",
+        "Local": "Sawed-off Shotgun Mod Schematic",
+        "StackNumber": 5
+    },
+    {
+        "Local": "Vehicle Fuel Saver Mod",
+        "StackNumber": 1,
+        "Name": "modVehicleFuelSaver"
+    },
+    {
+        "Name": "modVehicleHeadlights",
+        "StackNumber": 1,
+        "Local": "Vehicle Headlights Mod"
+    },
+    {
+        "Name": "modVehicleMega",
+        "StackNumber": 1,
+        "Local": "Vehicle Mega Mod"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Vehicle Speed Mod",
+        "Name": "modVehicleSpeed"
+    },
+    {
+        "Name": "motionsensorSchematic",
+        "StackNumber": 5,
+        "Local": "Motion Sensor Schematic"
+    },
+    {
+        "Name": "noteDuke01",
+        "Local": "Note from The Duke of Navezgane",
+        "StackNumber": 50
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Dev: Note to Testers",
+        "Name": "noteTestersDelightAdmin"
+    },
+    {
+        "Name": "noteTestersElectricityAdmin",
+        "StackNumber": 1,
+        "Local": "Dev: Electricity Test Note"
+    },
+    {
+        "Name": "oldCash",
+        "Local": "Old Cash",
+        "StackNumber": 10000
+    },
+    {
+        "Name": "partsMaster",
+        "StackNumber": 50,
+        "Local": "partsMaster"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Dev: Pimp Mining Helmet",
+        "Name": "pimpMiningHelmetAdmin"
+    },
+    {
+        "Name": "plantedAloe1Schematic",
+        "Local": "Aloe Vera (Seed) Recipe",
+        "StackNumber": 5
+    },
+    {
+        "Local": "Blueberry (Seed) Recipe",
+        "StackNumber": 5,
+        "Name": "plantedBlueberry1Schematic"
+    },
+    {
+        "Name": "plantedChrysanthemum1Schematic",
+        "Local": "Chrysanthemum (Seed) Recipe",
+        "StackNumber": 5
+    },
+    {
+        "Local": "Coffee (Seed) Recipe",
+        "StackNumber": 5,
+        "Name": "plantedCoffee1Schematic"
+    },
+    {
+        "Name": "plantedCorn1Schematic",
+        "StackNumber": 5,
+        "Local": "Corn (Seed) Recipe"
+    },
+    {
+        "Local": "Cotton (Seed) Recipe",
+        "StackNumber": 5,
+        "Name": "plantedCotton1Schematic"
+    },
+    {
+        "Name": "plantedGoldenrod1Schematic",
+        "StackNumber": 5,
+        "Local": "Goldenrod (Seed) Recipe"
+    },
+    {
+        "Name": "plantedGraceCorn1Schematic",
+        "StackNumber": 5,
+        "Local": "Super Corn (Seed) Recipe"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Hop (Seed) Recipe",
+        "Name": "plantedHop1Schematic"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Mushroom Spores (Seed) Recipe",
+        "Name": "plantedMushroom1Schematic"
+    },
+    {
+        "Name": "plantedPotato1Schematic",
+        "StackNumber": 5,
+        "Local": "Potato (Seed) Recipe"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Pumpkin (Seed) Recipe",
+        "Name": "plantedPumpkin1Schematic"
+    },
+    {
+        "Name": "plantedYucca1Schematic",
+        "Local": "Yucca (Seed) Recipe",
+        "StackNumber": 5
+    },
+    {
+        "Local": "Powered Doors and Bridges Schematic",
+        "StackNumber": 5,
+        "Name": "poweredDoorsSchematic"
+    },
+    {
+        "Name": "pressureplateSchematic",
+        "StackNumber": 5,
+        "Local": "Basic Sensors Schematic"
+    },
+    {
+        "Name": "q_basicSurvival",
+        "StackNumber": 50,
+        "Local": "Basic Survival Quest Note"
+    },
+    {
+        "Name": "qc_blitzdefense",
+        "StackNumber": 50,
+        "Local": "Blitz Defense Challenge"
+    },
+    {
+        "Local": "Buy the Farm Challenge",
+        "StackNumber": 50,
+        "Name": "qc_buythefarm"
+    },
+    {
+        "Local": "Cable Guys Never Made It Challenge",
+        "StackNumber": 50,
+        "Name": "qc_cableguysnevermadeit"
+    },
+    {
+        "Local": "Dishonorable Discharge Challenge",
+        "StackNumber": 50,
+        "Name": "qc_dishonorabledischarge"
+    },
+    {
+        "Name": "qc_dogdaysareover",
+        "Local": "The Dog Days Are Over Challenge",
+        "StackNumber": 50
+    },
+    {
+        "Name": "qc_dontfeedthebears",
+        "StackNumber": 50,
+        "Local": "Don't Feed the Bears Challenge"
+    },
+    {
+        "Local": "Drunk and Disorderly Challenge",
+        "StackNumber": 50,
+        "Name": "qc_drunkanddisorderly"
+    },
+    {
+        "Name": "qc_givemeaz",
+        "StackNumber": 50,
+        "Local": "Give me a Z Challenge"
+    },
+    {
+        "Name": "qc_imalumberjackandimokay",
+        "StackNumber": 50,
+        "Local": "I'm a Lumberjack & I'm Okay Challenge"
+    },
+    {
+        "Name": "qc_itsbitsyspider",
+        "Local": "Itsy Bitsy Spider Challenge",
+        "StackNumber": 50
+    },
+    {
+        "StackNumber": 50,
+        "Local": "Kill The Wabbit Challenge",
+        "Name": "qc_killthewabbit"
+    },
+    {
+        "Name": "qc_ladykiller",
+        "Local": "Lady Killer Challenge",
+        "StackNumber": 50
+    },
+    {
+        "Local": "Man Eater Challenge",
+        "StackNumber": 50,
+        "Name": "qc_maneater"
+    },
+    {
+        "Name": "qc_nailsomechicks",
+        "Local": "Nail Some Chicks Challenge",
+        "StackNumber": 50
+    },
+    {
+        "Name": "qc_nurseyoubacktohealth",
+        "StackNumber": 50,
+        "Local": "Nurse You Back To Health Challenge"
+    },
+    {
+        "Local": "Silence of the Lambs",
+        "StackNumber": 50,
+        "Name": "qc_silenceofthelambs"
+    },
+    {
+        "Name": "qc_stagparty",
+        "StackNumber": 50,
+        "Local": "Stag Party Challenge"
+    },
+    {
+        "Local": "Starving Tourists Challenge",
+        "StackNumber": 50,
+        "Name": "qc_starvingtourists"
+    },
+    {
+        "StackNumber": 50,
+        "Local": "That'll Do Pig Challenge",
+        "Name": "qc_thatlldopig"
+    },
+    {
+        "Name": "qc_yournothingspecial",
+        "Local": "You're Nothing Special",
+        "StackNumber": 50
+    },
+    {
+        "Name": "qt_claude",
+        "Local": "Claude's Treasure Map",
+        "StackNumber": 50
+    },
+    {
+        "Local": "Jennifer's Treasure Map",
+        "StackNumber": 50,
+        "Name": "qt_jennifer"
+    },
+    {
+        "StackNumber": 50,
+        "Local": "Nickole's Treasure Map",
+        "Name": "qt_nickole"
+    },
+    {
+        "Name": "qt_raphael",
+        "Local": "Raphael's Treasure Map",
+        "StackNumber": 50
+    },
+    {
+        "Local": "Sarah's Treasure Map",
+        "StackNumber": 50,
+        "Name": "qt_sarah"
+    },
+    {
+        "Local": "Stephan's Treasure Map",
+        "StackNumber": 50,
+        "Name": "qt_stephan"
+    },
+    {
+        "Name": "qt_taylor",
+        "Local": "Taylor's Treasure Map",
+        "StackNumber": 50
+    },
+    {
+        "StackNumber": 500,
+        "Local": "Cassadore Supplies",
+        "Name": "questCassadoreSupplies"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "questItem",
+        "Name": "questItem"
+    },
+    {
+        "Name": "questMaster",
+        "Local": "questMaster",
+        "StackNumber": 50
+    },
+    {
+        "StackNumber": 500,
+        "Local": "White River Supplies",
+        "Name": "questWhiteRiverSupplies"
+    },
+    {
+        "StackNumber": 100,
+        "Local": "Bottle of Acid",
+        "Name": "resourceAcid"
+    },
+    {
+        "Name": "resourceAirFilter",
+        "Local": "Car Air Filter",
+        "StackNumber": 250
+    },
+    {
+        "Name": "resourceAnimalFat",
+        "Local": "Animal Fat",
+        "StackNumber": 500
+    },
+    {
+        "Local": "Iron Arrowhead",
+        "StackNumber": 500,
+        "Name": "resourceArrowHeadIron"
+    },
+    {
+        "StackNumber": 500,
+        "Local": "Steel Arrowhead",
+        "Name": "resourceArrowHeadSteelAP"
+    },
+    {
+        "Local": "Bone",
+        "StackNumber": 1200,
+        "Name": "resourceBone"
+    },
+    {
+        "Local": "Broken Glass",
+        "StackNumber": 6000,
+        "Name": "resourceBrokenGlass"
+    },
+    {
+        "Name": "resourceBuckshot",
+        "StackNumber": 250,
+        "Local": "Buckshot"
+    },
+    {
+        "StackNumber": 500,
+        "Local": "Bullet Casing",
+        "Name": "resourceBulletCasing"
+    },
+    {
+        "Name": "resourceBulletTip",
+        "StackNumber": 500,
+        "Local": "Bullet Tip"
+    },
+    {
+        "Name": "resourceCandleStick",
+        "StackNumber": 250,
+        "Local": "Brass Candlestick"
+    },
+    {
+        "Name": "resourceCandyTin",
+        "Local": "Candy Tin Can",
+        "StackNumber": 250
+    },
+    {
+        "Name": "resourceCement",
+        "StackNumber": 1000,
+        "Local": "Cement"
+    },
+    {
+        "Name": "resourceClayLump",
+        "StackNumber": 6000,
+        "Local": "Clay Soil"
+    },
+    {
+        "Local": "Cloth Fragment",
+        "StackNumber": 250,
+        "Name": "resourceCloth"
+    },
+    {
+        "Name": "resourceCoal",
+        "StackNumber": 6000,
+        "Local": "Coal"
+    },
+    {
+        "Name": "resourceCoalBundle",
+        "StackNumber": 5,
+        "Local": "Coal Bundle (6000)"
+    },
+    {
+        "Name": "resourceCobblestones",
+        "Local": "Cobblestone Rocks",
+        "StackNumber": 1000
+    },
+    {
+        "Name": "resourceConcreteMix",
+        "Local": "Concrete Mix",
+        "StackNumber": 1000
+    },
+    {
+        "Name": "resourceCropAloeLeaf",
+        "Local": "Aloe Vera Leaf",
+        "StackNumber": 500
+    },
+    {
+        "Local": "Chrysanthemum",
+        "StackNumber": 500,
+        "Name": "resourceCropChrysanthemumPlant"
+    },
+    {
+        "StackNumber": 500,
+        "Local": "Coffee Beans",
+        "Name": "resourceCropCoffeeBeans"
+    },
+    {
+        "Name": "resourceCropCottonPlant",
+        "Local": "Cotton",
+        "StackNumber": 500
+    },
+    {
+        "Name": "resourceCropGoldenrodPlant",
+        "StackNumber": 500,
+        "Local": "Goldenrod Flower"
+    },
+    {
+        "StackNumber": 500,
+        "Local": "Hops Flower",
+        "Name": "resourceCropHopsFlower"
+    },
+    {
+        "Name": "resourceCropSnowberryPlant",
+        "StackNumber": 125,
+        "Local": "Snowberry"
+    },
+    {
+        "StackNumber": 6000,
+        "Local": "Crushed Sand",
+        "Name": "resourceCrushedSand"
+    },
+    {
+        "StackNumber": 250,
+        "Local": "Brass Door Knob",
+        "Name": "resourceDoorKnob"
+    },
+    {
+        "Name": "resourceDuctTape",
+        "StackNumber": 500,
+        "Local": "Duct Tape"
+    },
+    {
+        "Name": "resourceElectricParts",
+        "Local": "Electrical Parts",
+        "StackNumber": 1000
+    },
+    {
+        "Local": "Electronic Components",
+        "StackNumber": 1000,
+        "Name": "resourceElectronicParts"
+    },
+    {
+        "Name": "resourceFeather",
+        "StackNumber": 250,
+        "Local": "Feather"
+    },
+    {
+        "StackNumber": 250,
+        "Local": "Fertilizer",
+        "Name": "resourceFertilizer"
+    },
+    {
+        "StackNumber": 500,
+        "Local": "Lead Fishing Weight",
+        "Name": "resourceFishingWeight"
+    },
+    {
+        "Local": "Forged Iron",
+        "StackNumber": 500,
+        "Name": "resourceForgedIron"
+    },
+    {
+        "Name": "resourceForgedSteel",
+        "Local": "Forged Steel",
+        "StackNumber": 500
+    },
+    {
+        "Local": "Glue",
+        "StackNumber": 500,
+        "Name": "resourceGlue"
+    },
+    {
+        "Local": "Gold Nugget",
+        "StackNumber": 250,
+        "Name": "resourceGoldNugget"
+    },
+    {
+        "Name": "resourceGunPowder",
+        "StackNumber": 1000,
+        "Local": "Gun Powder"
+    },
+    {
+        "Name": "resourceHeadlight",
+        "Local": "Headlight",
+        "StackNumber": 50
+    },
+    {
+        "Name": "resourceHubcap",
+        "StackNumber": 250,
+        "Local": "Hub Cap"
+    },
+    {
+        "StackNumber": 500,
+        "Local": "Insulator",
+        "Name": "resourceInsulator"
+    },
+    {
+        "Name": "resourceIronFragment",
+        "Local": "Raw Iron",
+        "StackNumber": 1200
+    },
+    {
+        "Name": "resourceIronFragmentBundle",
+        "StackNumber": 5,
+        "Local": "Raw Iron Bundle (1200)"
+    },
+    {
+        "Name": "resourceLeadBundle",
+        "Local": "Lead Bundle (6000)",
+        "StackNumber": 5
+    },
+    {
+        "Name": "resourceLeather",
+        "Local": "Leather",
+        "StackNumber": 250
+    },
+    {
+        "Local": "Lockpick",
+        "StackNumber": 50,
+        "Name": "resourceLockPick"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Lockpick Bundle (100)",
+        "Name": "resourceLockPickBundle"
+    },
+    {
+        "Name": "resourceMechanicalParts",
+        "Local": "Mechanical Parts",
+        "StackNumber": 1000
+    },
+    {
+        "StackNumber": 500,
+        "Local": "Short Iron Pipe",
+        "Name": "resourceMetalPipe"
+    },
+    {
+        "Local": "Military Fiber",
+        "StackNumber": 250,
+        "Name": "resourceMilitaryFiber"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Military Fiber Schematic",
+        "Name": "resourceMilitaryFiberSchematic"
+    },
+    {
+        "Name": "resourceNail",
+        "Local": "Nails",
+        "StackNumber": 1000
+    },
+    {
+        "Name": "resourceOil",
+        "Local": "Oil",
+        "StackNumber": 50
+    },
+    {
+        "Name": "resourceOilSchematic",
+        "Local": "Oil Recipe",
+        "StackNumber": 5
+    },
+    {
+        "Name": "resourceOilShale",
+        "StackNumber": 6000,
+        "Local": "Oil Shale"
+    },
+    {
+        "Local": "Oil Shale Bundle (6000)",
+        "StackNumber": 5,
+        "Name": "resourceOilShaleBundle"
+    },
+    {
+        "Name": "resourcePaint",
+        "Local": "Paint",
+        "StackNumber": 1000
+    },
+    {
+        "Name": "resourcePaper",
+        "Local": "Paper",
+        "StackNumber": 250
+    },
+    {
+        "Local": "Nitrate Powder",
+        "StackNumber": 6000,
+        "Name": "resourcePotassiumNitratePowder"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Nitrate Powder Bundle (6000)",
+        "Name": "resourcePotassiumNitratePowderBundle"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Brass Radiator",
+        "Name": "resourceRadiator"
+    },
+    {
+        "Name": "resourceRawDiamond",
+        "Local": "Raw Diamond",
+        "StackNumber": 250
+    },
+    {
+        "StackNumber": 25,
+        "Local": "Repair Kit",
+        "Name": "resourceRepairKit"
+    },
+    {
+        "Name": "resourceRockSmall",
+        "StackNumber": 6000,
+        "Local": "Small Stone"
+    },
+    {
+        "Name": "resourceRockSmallBundle",
+        "Local": "Small Stone Bundle (6000)",
+        "StackNumber": 5
+    },
+    {
+        "Local": "Rocket Casing",
+        "StackNumber": 50,
+        "Name": "resourceRocketCasing"
+    },
+    {
+        "Name": "resourceRocketTip",
+        "Local": "Rocket Tip",
+        "StackNumber": 500
+    },
+    {
+        "Name": "resourceScrapBrass",
+        "StackNumber": 6000,
+        "Local": "Brass"
+    },
+    {
+        "Local": "Iron",
+        "StackNumber": 6000,
+        "Name": "resourceScrapIron"
+    },
+    {
+        "Local": "Iron Bundle (6000)",
+        "StackNumber": 5,
+        "Name": "resourceScrapIronBundle"
+    },
+    {
+        "StackNumber": 6000,
+        "Local": "Lead",
+        "Name": "resourceScrapLead"
+    },
+    {
+        "StackNumber": 1000,
+        "Local": "Scrap Polymers",
+        "Name": "resourceScrapPolymers"
+    },
+    {
+        "StackNumber": 20,
+        "Local": "Sewing Kit",
+        "Name": "resourceSewingKit"
+    },
+    {
+        "StackNumber": 250,
+        "Local": "Silver Nugget",
+        "Name": "resourceSilverNugget"
+    },
+    {
+        "Local": "Snowball",
+        "StackNumber": 6000,
+        "Name": "resourceSnowBall"
+    },
+    {
+        "Name": "resourceSpring",
+        "StackNumber": 500,
+        "Local": "Spring"
+    },
+    {
+        "StackNumber": 250,
+        "Local": "Reinforced Steel Upgrade (deprecated)",
+        "Name": "resourceSteelPolish"
+    },
+    {
+        "Local": "Testosterone Extract",
+        "StackNumber": 10,
+        "Name": "resourceTestosteroneExtract"
+    },
+    {
+        "StackNumber": 250,
+        "Local": "Brass Trophy",
+        "Name": "resourceTrophy1"
+    },
+    {
+        "Name": "resourceTrophy2",
+        "StackNumber": 250,
+        "Local": "Lead Trophy"
+    },
+    {
+        "Name": "resourceTrophy3",
+        "Local": "Tungsten Trophy",
+        "StackNumber": 250
+    },
+    {
+        "Local": "Wood",
+        "StackNumber": 6000,
+        "Name": "resourceWood"
+    },
+    {
+        "Name": "resourceWoodBundle",
+        "Local": "Wood Bundle (6000)",
+        "StackNumber": 5
+    },
+    {
+        "Local": "Plant Fibers",
+        "StackNumber": 6000,
+        "Name": "resourceYuccaFibers"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Dev: Ring of Fire",
+        "Name": "ringOfFireAdmin"
+    },
+    {
+        "Local": "Dev: Rocket Boots",
+        "StackNumber": 1,
+        "Name": "rocketBootsAdmin"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "schematicMaster",
+        "Name": "schematicMaster"
+    },
+    {
+        "Name": "schematicNoQualityMaster",
+        "StackNumber": 5,
+        "Local": "schematicNoQualityMaster"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "schematicNoQualityRecipeMaster",
+        "Name": "schematicNoQualityRecipeMaster"
+    },
+    {
+        "Name": "shotgunTurretSchematic",
+        "StackNumber": 5,
+        "Local": "Shotgun Turret Schematic"
+    },
+    {
+        "Name": "skillBookMaster",
+        "StackNumber": 5,
+        "Local": "skillBookMaster"
+    },
+    {
+        "Name": "smallEngine",
+        "StackNumber": 1,
+        "Local": "Engine"
+    },
+    {
+        "Name": "solarCell",
+        "Local": "Solar Cell",
+        "StackNumber": 1
+    },
+    {
+        "Local": "Speaker Schematic",
+        "StackNumber": 5,
+        "Name": "speakerSchematic"
+    },
+    {
+        "Name": "spotlightPlayerSchematic",
+        "StackNumber": 5,
+        "Local": "Spotlight Schematic"
+    },
+    {
+        "StackNumber": 15,
+        "Local": "Sunblocker",
+        "Name": "sunblocker"
+    },
+    {
+        "Name": "switchSchematic",
+        "StackNumber": 5,
+        "Local": "Switch Schematic"
+    },
+    {
+        "Local": "Table Saw Schematic",
+        "StackNumber": 5,
+        "Name": "tableSawSchematic"
+    },
+    {
+        "Local": "Dev: Terrain Add Tool",
+        "StackNumber": 1,
+        "Name": "terrainAdd"
+    },
+    {
+        "Name": "terrainRemove",
+        "Local": "Dev: Terrain Remove Tool",
+        "StackNumber": 1
+    },
+    {
+        "Local": "thrownAmmoFlare",
+        "StackNumber": 40,
+        "Name": "thrownAmmoFlare"
+    },
+    {
+        "Name": "thrownAmmoMolotovCocktail",
+        "StackNumber": 20,
+        "Local": "Molotov Cocktail (Ammo)"
+    },
+    {
+        "Name": "thrownAmmoPipeBomb",
+        "Local": "Pipe Bomb (Ammo)",
+        "StackNumber": 20
+    },
+    {
+        "Name": "thrownAmmoPipeBombSchematic",
+        "StackNumber": 5,
+        "Local": "Pipe Bomb Schematic"
+    },
+    {
+        "StackNumber": 10,
+        "Local": "Stick of Dynamite (Ammo)",
+        "Name": "thrownDynamite"
+    },
+    {
+        "Name": "thrownDynamiteSchematic",
+        "Local": "Stick of Dynamite Schematic",
+        "StackNumber": 5
+    },
+    {
+        "Name": "thrownGrenade",
+        "StackNumber": 25,
+        "Local": "Grenade (Ammo)"
+    },
+    {
+        "Name": "thrownGrenadeContact",
+        "Local": "Contact Grenade (Ammo)",
+        "StackNumber": 25
+    },
+    {
+        "Local": "Contact Grenade Schematic",
+        "StackNumber": 5,
+        "Name": "thrownGrenadeContactSchematic"
+    },
+    {
+        "Name": "thrownGrenadeSchematic",
+        "Local": "Grenade Schematic",
+        "StackNumber": 5
+    },
+    {
+        "Name": "thrownTimedCharge",
+        "StackNumber": 10,
+        "Local": "Timed Charge (Ammo)"
+    },
+    {
+        "Name": "toolAndDieSet",
+        "Local": "Tool & Die Set",
+        "StackNumber": 1
+    },
+    {
+        "Name": "toolAnvil",
+        "StackNumber": 1,
+        "Local": "Anvil"
+    },
+    {
+        "Local": "Anvil Schematic",
+        "StackNumber": 5,
+        "Name": "toolAnvilSchematic"
+    },
+    {
+        "StackNumber": 10,
+        "Local": "Beaker",
+        "Name": "toolBeaker"
+    },
+    {
+        "Local": "Advanced Bellows",
+        "StackNumber": 1,
+        "Name": "toolBellows"
+    },
+    {
+        "Name": "toolBellowsSchematic",
+        "Local": "Advanced Bellows Schematic",
+        "StackNumber": 5
+    },
+    {
+        "Name": "toolCookingGrill",
+        "Local": "Cooking Grill",
+        "StackNumber": 250
+    },
+    {
+        "Name": "toolCookingPot",
+        "StackNumber": 250,
+        "Local": "Cooking Pot"
+    },
+    {
+        "Local": "Crucible",
+        "StackNumber": 1,
+        "Name": "toolForgeCrucible"
+    },
+    {
+        "Name": "toolForgeCrucibleSchematic",
+        "Local": "Crucible Schematic",
+        "StackNumber": 5
+    },
+    {
+        "Local": "Dev: Terrain Modeling Tool",
+        "StackNumber": 1,
+        "Name": "toolTerrainModelerAdmin"
+    },
+    {
+        "Name": "treasureQuestMaster",
+        "Local": "treasureQuestMaster",
+        "StackNumber": 50
+    },
+    {
+        "Name": "unit_brass",
+        "StackNumber": 30000,
+        "Local": "unit_brass"
+    },
+    {
+        "StackNumber": 30000,
+        "Local": "unit_clay",
+        "Name": "unit_clay"
+    },
+    {
+        "Local": "unit_glass",
+        "StackNumber": 30000,
+        "Name": "unit_glass"
+    },
+    {
+        "Name": "unit_iron",
+        "StackNumber": 30000,
+        "Local": "unit_iron"
+    },
+    {
+        "StackNumber": 30000,
+        "Local": "unit_lead",
+        "Name": "unit_lead"
+    },
+    {
+        "Local": "unit_stone",
+        "StackNumber": 30000,
+        "Name": "unit_stone"
+    },
+    {
+        "Local": "4x4 Truck Accessories",
+        "StackNumber": 50,
+        "Name": "vehicle4x4TruckAccessories"
+    },
+    {
+        "Local": "4x4 Truck Accessories Schematic",
+        "StackNumber": 5,
+        "Name": "vehicle4x4TruckAccessoriesSchematic"
+    },
+    {
+        "Name": "vehicle4x4TruckChassis",
+        "StackNumber": 50,
+        "Local": "4x4 Truck Chassis"
+    },
+    {
+        "Local": "4x4 Truck Chassis Schematic",
+        "StackNumber": 5,
+        "Name": "vehicle4x4TruckChassisSchematic"
+    },
+    {
+        "Name": "vehicle4x4TruckPlaceable",
+        "Local": "4x4 Truck",
+        "StackNumber": 1
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Any vehicle schematic",
+        "Name": "vehicleAnySchematic"
+    },
+    {
+        "Name": "vehicleBicycleChassis",
+        "StackNumber": 50,
+        "Local": "Bicycle Chassis"
+    },
+    {
+        "Name": "vehicleBicycleChassisSchematic",
+        "StackNumber": 5,
+        "Local": "Bicycle Chassis Schematic"
+    },
+    {
+        "Name": "vehicleBicycleHandlebars",
+        "StackNumber": 50,
+        "Local": "Bicycle Handlebars"
+    },
+    {
+        "Local": "Bicycle Handlebars Schematic",
+        "StackNumber": 5,
+        "Name": "vehicleBicycleHandlebarsSchematic"
+    },
+    {
+        "StackNumber": 1,
+        "Local": "Bicycle",
+        "Name": "vehicleBicyclePlaceable"
+    },
+    {
+        "StackNumber": 50,
+        "Local": "Gyrocopter Accessories",
+        "Name": "vehicleGyroCopterAccessories"
+    },
+    {
+        "Local": "Gyrocopter Accessories Schematic",
+        "StackNumber": 5,
+        "Name": "vehicleGyroCopterAccessoriesSchematic"
+    },
+    {
+        "StackNumber": 50,
+        "Local": "Gyrocopter Chassis",
+        "Name": "vehicleGyroCopterChassis"
+    },
+    {
+        "Name": "vehicleGyroCopterChassisSchematic",
+        "StackNumber": 5,
+        "Local": "Gyrocopter Chassis Schematic"
+    },
+    {
+        "Local": "Gyrocopter",
+        "StackNumber": 1,
+        "Name": "vehicleGyrocopterPlaceable"
+    },
+    {
+        "Name": "vehicleMinibikeChassis",
+        "Local": "Minibike Chassis",
+        "StackNumber": 50
+    },
+    {
+        "Local": "Minibike Chassis Schematic",
+        "StackNumber": 5,
+        "Name": "vehicleMinibikeChassisSchematic"
+    },
+    {
+        "Local": "Minibike Handlebars",
+        "StackNumber": 50,
+        "Name": "vehicleMinibikeHandlebars"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Minibike Handlebars Schematic",
+        "Name": "vehicleMinibikeHandlebarsSchematic"
+    },
+    {
+        "Local": "Minibike",
+        "StackNumber": 1,
+        "Name": "vehicleMinibikePlaceable"
+    },
+    {
+        "Name": "vehicleMotorcycleChassis",
+        "StackNumber": 50,
+        "Local": "Motorcycle Chassis"
+    },
+    {
+        "Name": "vehicleMotorcycleChassisSchematic",
+        "StackNumber": 5,
+        "Local": "Motorcycle Chassis Schematic"
+    },
+    {
+        "StackNumber": 50,
+        "Local": "Motorcycle Handlebars",
+        "Name": "vehicleMotorcycleHandlebars"
+    },
+    {
+        "StackNumber": 5,
+        "Local": "Motorcycle Handlebars Schematic",
+        "Name": "vehicleMotorcycleHandlebarsSchematic"
+    },
+    {
+        "Name": "vehicleMotorcyclePlaceable",
+        "StackNumber": 1,
+        "Local": "Motorcycle"
+    },
+    {
+        "Name": "vehicleWheels",
+        "StackNumber": 50,
+        "Local": "Wheel"
+    },
+    {
+        "Name": "workbenchSchematic",
+        "Local": "Workbench Schematic",
+        "StackNumber": 5
+    }
+]
