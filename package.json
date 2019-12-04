@@ -1,0 +1,18 @@
+{
+  "name": "7dtd-bot",
+  "version": "1.0.0",
+  "description": "A 7 Days To Die BOT for A18",
+  "main": "7dtd-bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Kirkland",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "fs": "0.0.1-security",
+    "net": "^1.0.2",
+    "nodemailer": "^6.3.1",
+    "path": "^0.12.7"
+  }
+}
