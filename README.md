@@ -39,4 +39,4 @@ Feel free to experiment and add or remove commands.
 Log files are located in the log subdirectory. The logs roll over each day.
 
 ### Working Example
-To see the bot in action, play the game 7 Days To Die and connect to the server called **Urban Looting** at [IP: 170.130.205.130 Port:41451] (steam://connect/170.130.205.130:41451)
+To see the bot in action, play the game 7 Days To Die and connect to the server called **Urban Looting** at [IP: 170.130.205.130 Port:41451](steam://connect/170.130.205.130:41451)
