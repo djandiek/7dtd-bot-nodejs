@@ -1,5 +1,7 @@
 #!/usr/bin/node
 
+//jshint esversion: 6
+
 process.stdout.write( "\033c" );
 
 const bot = require( "./functions.js" );
