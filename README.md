@@ -14,7 +14,8 @@ A 7 Days To Die Request Bot
 2. Create a directory on your machine where you want to install the bot.
 3. Copy all files to the desired location.
 4. Edit the `data/config.json` file to include the 7 Days To Die server details
-5. Launch the Bot by typing `node 7dtd-bot.js`
+5. Run `npm install`
+6. Launch the Bot by typing `node 7dtd-bot.js`
 
 ## In-Game Commands
 The following commands are available in-game via the chat function. i.e. Press T in game and type `/help`
