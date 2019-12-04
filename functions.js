@@ -41,7 +41,7 @@ var gameDay = 1;
 
 function initFolders ()
 {
-    let dirs = [ "log", "data" ];
+    let dirs = [ "logs", "data" ];
 
     for ( let i = 0; i < dirs.length; i++ )
     {
