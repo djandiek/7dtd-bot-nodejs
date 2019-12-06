@@ -353,7 +353,7 @@ function processReceived ( data )
 {
     buffered += data;
 
-    let playerLookup = new RegExp( /^(\[.*])/, "sm" ).exec( buffered );
+    let playerLookup = new RegExp( /^(\[.*])/, "m" ).exec( buffered );
     if ( playerLookup )
     {
         buffered = "";
@@ -361,7 +361,7 @@ function processReceived ( data )
         return true;
     }
 
-    let adminLookup = new RegExp( /^(\{.*})/, "sm" ).exec( buffered );
+    let adminLookup = new RegExp( /^(\{.*})/, "m" ).exec( buffered );
     if ( adminLookup )
     {
         buffered = "";
@@ -379,6 +379,7 @@ function processReceived ( data )
     let chat = new RegExp( /\(BCM\)\s+Global:(.+?):(.+?):\s+\/(.+?)\r\n/, "sm" ).exec( buffered );
     let dayLookup = new RegExp( /Day\s+(\d+),/, "sm" ).exec( buffered );
     let joining = new RegExp( /INF\s+Player\s+connected.+?name=(.+?),\s+steamid=(\d+)/, "sm" ).exec( buffered );
+    let leaving = new RegExp( /INF\s+Player\s+disconnected:.+?PlayerID='(.+?)'.+?PlayerName='(.+?)'/, "sm" ).exec( buffered );
 
     buffered = "";
 
@@ -393,6 +394,14 @@ function processReceived ( data )
         logInfo( text );
         logToFile( text );
     }
+
+    if ( leaving )
+    {
+        let text = `${leaving[2]} (${leaving[1]}) left the game`;
+        logInfo( text );
+        logToFile( text );
+    }
+
     if ( dayLookup )
     {
         gameDay = dayLookup[ 1 ];
