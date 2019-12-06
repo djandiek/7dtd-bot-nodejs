@@ -77,6 +77,9 @@ function processCommand ( user, id, input )
         case "goto":
             gotoCoord( id, params );
             break;
+        case "fixleg":
+            fixLeg( id );
+            break;
         default:
             logInfo( "Unknown CMD: " + cmd );
     }
