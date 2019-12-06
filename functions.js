@@ -224,6 +224,20 @@ function giveItem ( steamID, request )
 
     srvcmd( `bc-give "${steamID}" "${found.Name}" /c=${amt} /silent` );
     pmPlayer( steamID, `Ok, ${amt} ${found.Local} should be in your inventory now.` );
+    let text = `Gave ${found.Local} to ${steamID}`;
+    logInfo( text );
+    logToFile( text );
+}
+
+function fixLeg ( steamID )
+{
+    srvcmd( `debuffplayer ${steamID}" buffLegSprained` );
+    srvcmd( `debuffplayer ${steamID}" buffLegBroken` );
+
+    pmPlayer( steamID, "Tada! Your leg is now all healed." );
+    let text = `Healed leg: ${steamID}`;
+    logInfo( text );
+    logToFile( text );
 }
 
 function saveCoord ( entityID, request )
