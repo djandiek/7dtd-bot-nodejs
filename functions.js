@@ -29,15 +29,16 @@ const eob = new RegExp( '\r\n$' );
 const config = getConfig();
 const items = getItems();
 
-var client;
+let client;
+let restart
 
-var cmdQueue = [];
-var cmdRunOk = true;
-var buffered = "";
+let cmdQueue = [];
+let cmdRunOk = true;
+let buffered = "";
 
-var players = {};
-var admins = [];
-var gameDay = 1;
+let players = {};
+let admins = [];
+let gameDay = 1;
 
 function initFolders ()
 {
@@ -234,8 +235,8 @@ function giveItem ( steamID, request )
 
 function fixLeg ( steamID )
 {
-    srvcmd( `debuffplayer ${steamID}" buffLegSprained` );
-    srvcmd( `debuffplayer ${steamID}" buffLegBroken` );
+    srvcmd( `debuffplayer ${steamID} buffLegSprained` );
+    srvcmd( `debuffplayer ${steamID} buffLegBroken` );
 
     pmPlayer( steamID, "Tada! Your leg is now all healed." );
     let text = `Healed leg: ${steamID}`;
@@ -564,7 +565,8 @@ function connectToGame ()
     {
         client = null;
         logError( "Connection lost, trying to reconnecting..." );
-        setTimeout( function ()
+        clearTimeout( restart );
+        restart = setTimeout( function ()
         {
             connectToGame();
         }, 10000 );
