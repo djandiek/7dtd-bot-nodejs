@@ -30,7 +30,7 @@ const config = getConfig();
 const items = getItems();
 
 let client;
-let restart
+let restart;
 
 let cmdQueue = [];
 let cmdRunOk = true;
@@ -56,13 +56,7 @@ function initFolders ()
 function processCommand ( user, id, input )
 {
     let [ original, cmd, params ] = new RegExp( /(\w+)\s*(.*)/, "sm" ).exec( input );
-    console.log(
-        "USER:" + user,
-        "CMD: " + cmd,
-        "PARAMS: " + params
-    );
-
-    logToFile( `USER: ${user}; CMD: ${cmd}; PARAMS: ${params}` );
+    logInfo( `Command used - USER: ${user}; CMD: ${cmd}; PARAMS: ${params}`, true );
 
     switch ( cmd )
     {
@@ -86,14 +80,22 @@ function processCommand ( user, id, input )
     }
 }
 
-function logError ( input )
+function logError ( text, tofile )
 {
-    console.log( "\x1b[31m%s\x1b[0m", input );
+    console.log( "\x1b[31m%s\x1b[0m", text );
+    if ( tofile )
+    {
+        logToFile( text );
+    }
 }
 
-function logInfo ( input )
+function logInfo ( text, tofile )
 {
-    console.log( "\x1b[36m%s\x1b[0m", input );
+    console.log( "\x1b[36m%s\x1b[0m", text );
+    if ( tofile )
+    {
+        logToFile( text );
+    }
 }
 
 function logToFile ( text )
@@ -229,8 +231,7 @@ function giveItem ( steamID, request )
     srvcmd( `bc-give "${steamID}" "${found.Name}" /c=${amt} /silent` );
     pmPlayer( steamID, `Ok, ${amt} ${found.Local} should be in your inventory now.` );
     let text = `Gave ${found.Local} to ${steamID}`;
-    logInfo( text );
-    logToFile( text );
+    logInfo( text, true );
 }
 
 function fixLeg ( steamID )
@@ -240,8 +241,7 @@ function fixLeg ( steamID )
 
     pmPlayer( steamID, "Tada! Your leg is now all healed." );
     let text = `Healed leg: ${steamID}`;
-    logInfo( text );
-    logToFile( text );
+    logInfo( text, true );
 }
 
 function saveCoord ( entityID, request )
@@ -409,15 +409,13 @@ function processReceived ( data )
     if ( joining )
     {
         let text = `${joining[1]} (${joining[2]}) joined the game`;
-        logInfo( text );
-        logToFile( text );
+        logInfo( text, true );
     }
 
     if ( leaving )
     {
         let text = `${leaving[2]} (${leaving[1]}) left the game`;
-        logInfo( text );
-        logToFile( text );
+        logInfo( text, true );
     }
 
     if ( dayLookup )
@@ -538,7 +536,7 @@ function connectToGame ()
 
     client.on( "connect", function ()
     {
-        logInfo( "Connection established with server" );
+        logInfo( "Connection established with server", true );
     } );
 
     client.on( "ready", function ()
@@ -564,7 +562,7 @@ function connectToGame ()
     client.on( "error", function ()
     {
         client = null;
-        logError( "Connection lost, trying to reconnecting..." );
+        logError( "Connection lost, trying to reconnecting...", true );
         clearTimeout( restart );
         restart = setTimeout( function ()
         {
