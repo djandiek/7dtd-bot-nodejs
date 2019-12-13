@@ -1,5 +1,17 @@
 {
     "host": "xxx.xxx.xxx.xxx",
     "port": "xxxxx",
-    "password": "xxxxxxxx"
+    "password": "xxxxxxxx",
+    "nodemailer":
+    {
+        "send": true,
+        "host": "xxx.xxx.xxx.xxx",
+        "port": 465,
+        "secure": true,
+        "auth":
+        {
+            "user": "xxxxx",
+            "pass": "xxxxxxxx"
+        }
+    }
 }
