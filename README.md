@@ -3,11 +3,11 @@ A 7 Days To Die Request Bot
 
 ## Prerequisites:
 - Machine with internet access (Windows or Linux)
+- NodeJS (v11+) installed
 - Admin access to a 7 Days To Die Server
 - The following MODs installed on the server:
   - [Alloc Fixes](https://7dtd.illy.bz/wiki/Server%20fixes)
   - [BC Manager](https://7daystodie.com/forums/showthread.php?57569-Bad-Company-Manager-(ApiMod-for-Servers)) installed on the 7 Days To Die server
-- NodeJS (v11+) installed
 
 ## Installation
 1. Ensure all prerequisites are met. To install NodeJS visit [Node.JS](https://nodejs.org/)
@@ -21,17 +21,11 @@ A 7 Days To Die Request Bot
 The following commands are available in-game via the chat function. i.e. Press T in game and type `/help`
 ```
 Commands:
-/help - This help message.
 /fixleg - Fix a sprained or broken leg.
 /save <location> - Saves your current location. i.e. /save base
 /goto <location> - Teleports you to a previously saved location. i.e. /goto base. If no location is given, list all your saved locations.
 /teleport - Randomly teleports you.
 /gimme <item> [amount] (i.e. /gimme steel pickaxe. You have a 80% chance of getting the item. Becareful as failed attempts will attract zombies!)
-
-Admin Only:
-/setowner [player] - Set the local interactive items to be owned by a player.
-/killallzombies - Kill all currently spawned zombies.
-/supplydrop - Spawn supply boxes around all the currently logged in players.
 ```
 Feel free to experiment and add or remove commands.
 
