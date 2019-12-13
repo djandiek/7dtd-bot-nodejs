@@ -17,7 +17,8 @@ module.exports = {
 
 const
     fs = require( "fs" ),
-    net = require( "net" );
+    net = require( "net" ),
+    nodemailer = require( "nodemailer" );
 
 const
     configFile = "data/config.json",
@@ -408,7 +409,8 @@ function processReceived ( data )
 
     if ( joining )
     {
-        let text = `${joining[1]} (${joining[2]}) joined the game`;
+        let text = `${joining[1]} (${joining[2]}) joined the game - http://steamcommunity.com/profiles/${joining[2]}`;
+        sendEmail( "Player joined 7DTD server", text );
         logInfo( text, true );
     }
 
@@ -522,6 +524,29 @@ function storeAdmins ( json )
     {
         logError( "Admins data not supplied as expected JSON format - " + err + " - " + json );
     }
+}
+
+function sendEmail ( subject, body )
+{
+    if ( !config.nodemailer.send )
+    {
+        return;
+    }
+    let transporter = nodemailer.createTransport( config.nodemailer );
+    async function main ()
+    {
+        let info = await transporter.sendMail(
+        {
+            "from": '"7DTD-bot" <djandiek@gmail.com>',
+            "to": "djandiek@gmail.com",
+            "subject": subject,
+            "text": body
+        } );
+
+        logInfo( `email sent: ${info.messageId}`, true );
+    }
+
+    main();
 }
 
 function connectToGame ()
